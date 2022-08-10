@@ -1,0 +1,842 @@
+,id,name,family,class,sequence,mse,rank
+667,MA1929.1,CTCF,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CTGCAGTTCCAGCTGTGGCCACCAGGGGGCGCTA,-1.1034421022467715,0
+668,MA1930.1,CTCF,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CTGCAGTTCCCCCTTCTGGCCACTAGGGGGCGCTA,-1.1376369299080349,1
+30,MA0139.1,CTCF,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,TGGCCACCAGGGGGCGCTA,-1.7319181976261786,2
+598,MA1102.2,CTCFL,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,AGCAGGGGGCGC,-4.685289103296664,3
+565,MA1638.1,HAND2,['Tal-related'],Basic helix-loop-helix factors (bHLH),ACCAGATGGC,-5.276524639315686,4
+495,MA1619.1,Ptf1A,['Tal-related'],Basic helix-loop-helix factors (bHLH),GCACAGCTGTGC,-5.906838867758636,5
+662,MA0748.2,YY2,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,AGATGGCGGCG,-6.473532298364127,6
+462,MA1570.1,TFAP4,['bHLH-ZIP'],Basic helix-loop-helix factors (bHLH),AACATATGTT,-6.571394684789846,7
+617,MA0043.3,HLF,['CEBP-related'],Basic leucine zipper factors (bZIP),TTGTTATGCAACAA,-6.61201140500542,8
+213,MA0777.1,MYBL2,['Myb/SANT domain factors'],Tryptophan cluster factors,AACCGTTAAACGGTC,-6.665267323800185,9
+772,MA0624.2,Nfatc1,['NFAT-related factors'],Rel homology region (RHR) factors,CAATGGAAAATA,-6.7406431536849745,10
+824,MA1498.2,HOXA7,['HOX'],Homeo domain factors,GCAATTAA,-6.851588760045718,11
+503,MA1629.1,Zic2,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CTCACAGCAGGGGG,-7.498275056653736,12
+80,MA0614.1,Foxj2,['FOX'],Fork head/winged helix factors,GTAAACAA,-7.537940222339048,13
+808,MA0847.3,FOXD2,['FOX'],Fork head/winged helix factors,CTTAAACAAACA,-7.609130175717211,14
+402,MA1495.1,HOXA1,['HOX'],Homeo domain factors,GTAATTAC,-7.670178808772085,15
+108,MA0131.2,HINFP,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,CAACGTCCGCGG,-7.685198631836143,16
+105,MA0647.1,GRHL1,['Grainyhead-related factors'],Grainyhead domain factors,AAAACCGGTTTT,-7.732759273513419,17
+778,MA0651.2,HOXC11,['HOX'],Homeo domain factors,AGGTCGTAAAAA,-7.772977322761384,18
+620,MA0901.2,HOXB13,['HOX'],Homeo domain factors,AACCAATAAAATTT,-7.837187980598606,19
+222,MA0787.1,POU3F2,['POU domain factors'],Homeo domain factors,TTATGCAAATTA,-7.877829768710971,20
+272,MA0032.2,FOXC1,['FOX'],Fork head/winged helix factors,TATGTAAATAT,-7.881525334450827,21
+98,MA0027.2,EN1,['NK'],Homeo domain factors,CTAATTAG,-7.900951924267069,22
+297,MA0874.1,Arx,['Paired-related HD factors'],Homeo domain factors,GTCCATTAATTAATGGA,-7.926544194347115,23
+835,MA1601.2,ZNF75D,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GTGGGAAAGCCT,-7.946191796705391,24
+786,MA0697.2,Zic3,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CACAGCAGGAGGC,-7.994894095387635,25
+604,MA0640.2,ELF3,['Ets-related'],Tryptophan cluster factors,TTCCACTTCCTGGT,-8.030632002219587,26
+767,MA0521.2,Tcf12,['E2A'],Basic helix-loop-helix factors (bHLH),GAACAGCTGTTC,-8.078624625623377,27
+660,MA1123.2,TWIST1,['Tal-related'],Basic helix-loop-helix factors (bHLH),ATTCCAGATGTTT,-8.114774565099177,28
+635,MA0025.2,NFIL3,['CEBP-related'],Basic leucine zipper factors (bZIP),TATTATGCAATAT,-8.143462100890135,29
+708,MA1970.1,TRPS1,['C4-GATA-related'],Other C4 zinc finger-type factors,TATCTTATCTTT,-8.143542010180182,30
+549,MA1715.1,ZNF707,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CCCCACTCCTGGTAC,-8.147619069363381,31
+8,MA0059.1,MAX::MYC,"['bHLH-ZIP', 'bHLH-ZIP']",Basic helix-loop-helix factors (bHLH),GACCACGTGGT,-8.153228896097804,32
+782,MA0680.2,Pax7,['Paired plus homeo domain'],Paired box factors,ATTAATCAATTATTT,-8.191159890301217,33
+252,MA0461.2,Atoh1,['Tal-related'],Basic helix-loop-helix factors (bHLH),AACATATGTT,-8.199145625287526,34
+445,MA1549.1,POU6F1,['POU domain factors'],Homeo domain factors,ATAATGAGGT,-8.20361748570573,35
+762,MA0506.2,Nrf1,['Jun-related'],Basic leucine zipper factors (bZIP),GCCTGCGCCTGCGCG,-8.227178841671954,36
+802,MA0818.2,BHLHE22,['Tal-related'],Basic helix-loop-helix factors (bHLH),ACCATATGGT,-8.256919453463288,37
+763,MA0507.2,POU2F2,['POU domain factors'],Homeo domain factors,AATATGCAAATTAG,-8.257823065349088,38
+152,MA0699.1,LBX2,['NK'],Homeo domain factors,GCCAATTAGC,-8.276002253780781,39
+87,MA0628.1,POU6F1,['POU domain factors'],Homeo domain factors,ATTAATTAAT,-8.288110623485329,40
+531,MA0842.2,NRL,['Maf-related'],Basic leucine zipper factors (bZIP),AAAAGTGCTGACG,-8.296751977309848,41
+494,MA1618.1,Ptf1a,['Tal-related'],Basic helix-loop-helix factors (bHLH),AAACAGATGTTTA,-8.30556234758376,42
+362,MA1136.1,FOSB::JUNB,"['Fos-related', 'Jun-related']",Basic leucine zipper factors (bZIP),ATGACGTCAT,-8.306073236376196,43
+448,MA1553.1,RARG,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,AAGGTCATGACCTT,-8.313924639407109,44
+661,MA0093.3,USF1,['bHLH-ZIP'],Basic helix-loop-helix factors (bHLH),TGGTCATGTGACCT,-8.331577781465931,45
+261,MA0827.1,OLIG3,['Tal-related'],Basic helix-loop-helix factors (bHLH),ACCATATGTT,-8.341399260766472,46
+609,MA0047.3,FOXA2,['FOX'],Fork head/winged helix factors,ATGTAAACATA,-8.355212523928776,47
+422,MA1519.1,LHX5,['HD-LIM'],Homeo domain factors,GTAATTAA,-8.370594544907021,48
+51,MA0494.1,Nr1h3::Rxra,"['Thyroid hormone receptor-related factors (NR1)', 'RXR-related receptors (NR2)']",Nuclear receptors with C4 zinc fingers,TGACCTAAAGTAACCTCTG,-8.375740113207657,49
+584,MA1683.1,FOXA3,['FOX'],Fork head/winged helix factors,ATGTAAACATA,-8.390791358774173,50
+315,MA0898.1,Hmx3,['NK'],Homeo domain factors,ACAAGCAATTAAAGAAT,-8.397152978075564,51
+271,MA0845.1,FOXB1,['FOX'],Fork head/winged helix factors,TATGTAAATAT,-8.417344902908642,52
+725,MA1987.1,ZNF701,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GAGCACCAAAGGGGGGAAGGG,-8.41964261019754,53
+734,MA1996.1,Nr1H2,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,CAAAGGTCACA,-8.424403717797137,54
+73,MA0601.1,Arid3b,['ARID-related'],ARID,ATATTAATTAA,-8.425493043399557,55
+46,MA0478.1,FOSL2,['Fos-related'],Basic leucine zipper factors (bZIP),GGATGACTCAT,-8.45100240256697,56
+13,MA0072.1,RORA,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,TATAAGTAGGTCAA,-8.451607105163347,57
+54,MA0504.1,NR2C2,['RXR-related receptors (NR2)'],Nuclear receptors with C4 zinc fingers,AGGGGTCAGAGGTCA,-8.455230552541057,58
+226,MA0791.1,POU4F3,['POU domain factors'],Homeo domain factors,ATGCATAATTAATGAG,-8.460956248311822,59
+345,MA0750.2,ZBTB7A,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GCCCGGAAGTGGC,-8.475906590532336,60
+535,MA0868.2,SOX8,['SOX-related factors'],High-mobility group (HMG) domain factors,AGAACAATGG,-8.49123850901893,61
+379,MA1418.1,IRF3,['Interferon-regulatory factors'],Tryptophan cluster factors,GGGAAACGGAAACCGAAACTG,-8.500526626447312,62
+528,MA0702.2,LMX1A,['HD-LIM'],Homeo domain factors,TTAATTAA,-8.507100464267827,63
+552,MA1718.1,ZNF8,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,GTATGGATATACCACATTTT,-8.541939035015208,64
+374,MA1149.1,RARA::RXRG,"['Thyroid hormone receptor-related factors (NR1)', 'RXR-related receptors (NR2)']",Nuclear receptors with C4 zinc fingers,GAGGTCATGTAGAGGTCA,-8.551205099001029,65
+627,MA0496.3,MAFK,['Maf-related'],Basic leucine zipper factors (bZIP),TGCTGACTCAGCAAT,-8.556445527976152,66
+529,MA0703.2,LMX1B,['HD-LIM'],Homeo domain factors,ATTTTAATTAA,-8.573942371596578,67
+142,MA0083.3,SRF,['Responders to external signals (SRF/RLM1)'],MADS box factors,TGACCATATATGGTCA,-8.575114489098162,68
+164,MA0716.1,PRRX1,['Paired-related HD factors'],Homeo domain factors,CTAATTAA,-8.579586145171712,69
+701,MA1963.1,SATB1,['HD-CUT'],Homeo domain factors,TTACTAATAACTA,-8.586137191187115,70
+502,MA1628.1,Zic1::Zic2,"['More than 3 adjacent zinc fingers', 'More than 3 adjacent zinc fingers']",C2H2 zinc finger factors,CACAGCAGGGG,-8.586503711543132,71
+254,MA0817.1,BHLHE23,['Tal-related'],Basic helix-loop-helix factors (bHLH),AAACATATGTTT,-8.591887872925453,72
+110,MA0153.2,HNF1B,['POU domain factors'],Homeo domain factors,GTTAATGATTAAC,-8.592808714649838,73
+822,MA1487.2,FOXE1,['FOX'],Fork head/winged helix factors,CCTAAATAAACAAA,-8.600241699101483,74
+138,MA0683.1,POU4F2,['POU domain factors'],Homeo domain factors,ATGCATAATTAATGAG,-8.608184258885764,75
+376,MA1151.1,RORC,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,ATAAGTAGGTCA,-8.619390860492565,76
+568,MA1641.1,MYF5,['MyoD/ASC-related factors'],Basic helix-loop-helix factors (bHLH),GAACAGCTGTTC,-8.657477278549246,77
+716,MA1978.1,ZNF354A,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,ATAAATATAAATGGACTAATT,-8.667642903282415,78
+348,MA1125.1,ZNF384,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,TTTAAAAAAAAA,-8.679890717022513,79
+628,MA0052.4,MEF2A,['Regulators of differentiation'],MADS box factors,TTCTAAAAATAGAAA,-8.683955413887277,80
+608,MA0148.4,FOXA1,['FOX'],Fork head/winged helix factors,ATGTAAACATGT,-8.703857645175752,81
+220,MA0785.1,POU2F1,['POU domain factors'],Homeo domain factors,AATATGCAAATT,-8.710935308433804,82
+310,MA0892.1,GSX1,['HOX'],Homeo domain factors,CCTAATTAAA,-8.711877670299895,83
+652,MA0829.2,SREBF1,['bHLH-ZIP'],Basic helix-loop-helix factors (bHLH),AGATCACCTGATCT,-8.718771656609078,84
+833,MA1567.2,Tbx6,['TBX6-related factors'],T-Box factors,GAGGTGTGAAGT,-8.724525915905359,85
+525,MA0913.2,HOXD9,['HOX'],Homeo domain factors,GCAATAAAAC,-8.735810089283067,86
+446,MA1550.1,PPARD,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,AGGGGTCAAAGGTCAA,-8.738805711367391,87
+78,MA0610.1,DMRT3,['DMRT factors'],DM-type intertwined zinc finger factors,AATGTATCAAT,-8.741141265172796,88
+753,MA0157.3,Foxo3,['FOX'],Fork head/winged helix factors,ATGTAAACAAAA,-8.760612895070894,89
+644,MA0627.2,POU2F3,['POU domain factors'],Homeo domain factors,AATATGCAAATAA,-8.764281518108119,90
+511,MA0612.2,EMX1,['NK'],Homeo domain factors,CTAATTAG,-8.779385930559792,91
+136,MA0678.1,OLIG2,['Tal-related'],Basic helix-loop-helix factors (bHLH),ACCATATGGT,-8.7805277361824,92
+91,MA0634.1,ALX3,['Paired-related HD factors'],Homeo domain factors,TCTAATTAAA,-8.789186301074741,93
+675,MA1937.1,ERF::HOXB13,"['Ets-related', 'HOX-related factors']",Tryptophan cluster factors,ACCGGAAGTCGTAAAA,-8.79078871028597,94
+31,MA0142.1,Pou5f1::Sox2,"['POU domain factors', 'SOX-related factors']",Homeo domain factors,CTTTGTTATGCAAAT,-8.797471089128456,95
+719,MA1981.1,ZNF530,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GAAAGGAAAGGGGCGGGA,-8.798519407147307,96
+610,MA1103.2,FOXK2,['FOX'],Fork head/winged helix factors,ATGTAAACAAG,-8.831677877867744,97
+683,MA1945.1,ETV5::FIGLA,"['Ets-related', 'Tal-related']",Tryptophan cluster factors,GGCGGAAGCAGGTGG,-8.848961195972032,98
+242,MA0806.1,TBX4,['TBX2-related factors'],T-Box factors,AGGTGTGA,-8.850066895402396,99
+508,MA0864.2,E2F2,['E2F'],Fork head/winged helix factors,GTTTTGGCGCCATTTC,-8.858757902530723,100
+29,MA0135.1,Lhx3,['HD-LIM'],Homeo domain factors,AAATTAATTAATC,-8.869258685392738,101
+219,MA0783.1,PKNOX2,['TALE-type homeo domain factors'],Homeo domain factors,TGACAGGTGTCA,-8.87327845304223,102
+236,MA0800.1,EOMES,['TBrain-related factors'],T-Box factors,AAGGTGTGAAAAT,-8.875102544376682,103
+639,MA0679.2,ONECUT1,['HD-CUT'],Homeo domain factors,AAAAAATCAATAAATA,-8.885377588829721,104
+44,MA0468.1,DUX4,['Paired-related HD factors'],Homeo domain factors,TAATTTAATCA,-8.886404437785075,105
+161,MA0713.1,PHOX2A,['Paired-related HD factors'],Homeo domain factors,TAATTTAATTA,-8.89026032925046,106
+542,MA1708.1,ETV7,['Ets-related'],Tryptophan cluster factors,AGGCGGAAGTG,-8.893873506422265,107
+700,MA1962.1,POU2F1::SOX2,"['POU domain factors', 'SOX-related factors']",Homeo domain factors,AATTTGCATAACAATGG,-8.901986539366229,108
+11,MA0070.1,PBX1,['TALE-type homeo domain factors'],Homeo domain factors,CCATCAATCAAA,-8.913279049590543,109
+671,MA1933.1,ELK1::SREBF2,"['Ets-related', 'bHLH-ZIP']",Tryptophan cluster factors,ACCGGAAGTGGCGTGA,-8.91797720457709,110
+684,MA1946.1,ETV5::FOXI1,"['Ets-related', 'FOX']",Tryptophan cluster factors,GTAAACAGGAAGT,-8.921125653075322,111
+336,MA1115.1,POU5F1,['POU domain factors'],Homeo domain factors,ATATGCAAATT,-8.92481903170984,112
+350,MA1155.1,ZSCAN4,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,TGCACACACTGAAAA,-8.92565835168377,113
+441,MA1544.1,OVOL1,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,AAAACCGTTATTTG,-8.926326441171407,114
+592,MA0833.2,ATF4,['ATF-4-related factors'],Basic leucine zipper factors (bZIP),AAATGATGCAATAA,-8.938672805808597,115
+223,MA0788.1,POU3F3,['POU domain factors'],Homeo domain factors,ATTATGCTAATTT,-8.938870287762104,116
+60,MA0523.1,TCF7L2,['TCF-7-related factors'],High-mobility group (HMG) domain factors,AAAGATCAAAGGAA,-8.940602081455522,117
+521,MA0904.2,HOXB5,['HOX'],Homeo domain factors,GTAATTAC,-8.950583039600076,118
+88,MA0629.1,Rhox11,['Paired-related HD factors'],Homeo domain factors,AAGACGCTGTAAAGCGA,-8.950608784945528,119
+187,MA0736.1,GLIS2,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GACCCCCCGCGAAG,-8.958541882793554,120
+37,MA0155.1,INSM1,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,TGTCAGGGGGCG,-8.96511332637718,121
+383,MA1463.1,ARGFX,['Paired-related HD factors'],Homeo domain factors,TCTAATTAAA,-8.96988047149517,122
+814,MA0884.2,DUXA,['Paired-related HD factors'],Homeo domain factors,TTGATTTAATCAA,-8.991903578328648,123
+506,MA0462.2,BATF::JUN,"['B-ATF-related factors', 'Jun-related']",Basic leucine zipper factors (bZIP),TATGACTCATA,-8.992798197997553,124
+15,MA0074.1,RXRA::VDR,"['RXR-related receptors (NR2)', 'Thyroid hormone receptor-related factors (NR1)']",Nuclear receptors with C4 zinc fingers,GGGTCAACGAGTTCA,-8.993398230213085,125
+815,MA0885.2,Dlx2,['NK'],Homeo domain factors,AAGCAATTAGCA,-9.006402271883289,126
+599,MA0471.2,E2F6,['E2F'],Fork head/winged helix factors,GGGGGCGGGAAGG,-9.006703570055741,127
+157,MA0710.1,NOTO,['NK'],Homeo domain factors,GCTAATTAGC,-9.007277434982788,128
+513,MA0038.2,GFI1,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CAAATCACTGCA,-9.013014736050161,129
+829,MA1532.2,NR1D2,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,TGGGTTAGTAGGTCA,-9.021725775453357,130
+204,MA0767.1,GCM2,['GCM'],GCM domain factors,TATGCGGGTA,-9.022300747929762,131
+277,MA0851.1,Foxj3,['FOX'],Fork head/winged helix factors,AAAAAGTAAACAAACAC,-9.023625694855967,132
+447,MA1552.1,RARB,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,AAGGTCATGACCTT,-9.028109289859142,133
+6,MA0040.1,Foxq1,['FOX'],Fork head/winged helix factors,TATTGTTTATT,-9.030868045046963,134
+712,MA1974.1,ZNF211,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,AATATATACCATATA,-9.041302735777931,135
+40,MA0164.1,Nr2e3,['RXR-related receptors (NR2)'],Nuclear receptors with C4 zinc fingers,CAAGCTT,-9.04314054198116,136
+233,MA0797.1,TGIF2,['TALE-type homeo domain factors'],Homeo domain factors,TGACAGCTGTCA,-9.04769054118017,137
+373,MA1148.1,PPARA::RXRA,"['Thyroid hormone receptor-related factors (NR1)', 'RXR-related receptors (NR2)']",Nuclear receptors with C4 zinc fingers,ATGTAGGTCAAAGGTCAT,-9.049541330797258,138
+207,MA0772.1,IRF7,['Interferon-regulatory factors'],Tryptophan cluster factors,ACGAAAGCGAAAGT,-9.050596706345335,139
+555,MA1721.1,ZNF93,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GGCAGCGGCAGCGGCG,-9.058036812503856,140
+704,MA1966.1,TFAP4::ETV1,"['bHLH-ZIP', 'Ets-related']",Basic helix-loop-helix factors (bHLH),GCCGGAAGCAGGTGGG,-9.060446378242963,141
+7,MA0051.1,IRF2,['Interferon-regulatory factors'],Tryptophan cluster factors,GGAAAGCGAAACCAAAAC,-9.066978742096587,142
+690,MA1952.1,FOXJ2::ELF1,"['FOX', 'Ets-related']",Fork head/winged helix factors,ATAAACAGGAAGTA,-9.068920468299243,143
+533,MA0075.3,PRRX2,['Paired-related HD factors'],Homeo domain factors,CTAATTAA,-9.07607298342092,144
+838,MA1647.2,Prdm4,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,GAGCCTTGAAACTGTCA,-9.078127136601985,145
+64,MA0150.2,Nfe2l2,['Jun-related'],Basic leucine zipper factors (bZIP),CAGCATGACTCAGCA,-9.081725557948904,146
+120,MA0661.1,MEOX1,['HOX'],Homeo domain factors,GCTAATTAAC,-9.081893957256293,147
+769,MA0606.2,Nfat5,['NFAT-related factors'],Rel homology region (RHR) factors,ACATGGAAAATT,-9.086027269469136,148
+642,MA0681.2,PHOX2B,['Paired-related HD factors'],Homeo domain factors,TTTAATCAAATTATAT,-9.086295205621735,149
+487,MA1603.1,Dmrt1,['DMRT factors'],DM-type intertwined zinc finger factors,GATACAAAGTATC,-9.086366236682634,150
+360,MA1134.1,FOS::JUNB,"['Fos-related', 'Jun-related']",Basic leucine zipper factors (bZIP),GATGAGTCATCC,-9.091069928938309,151
+195,MA0088.2,ZNF143,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,TACCCACAATGCATTG,-9.095293018562073,152
+96,MA0639.1,DBP,['CEBP-related'],Basic leucine zipper factors (bZIP),TATTACGTAACA,-9.097108527085737,153
+460,MA1568.1,TCF21,['Tal-related'],Basic helix-loop-helix factors (bHLH),CACCATATGGCG,-9.097140497381773,154
+156,MA0709.1,Msx3,['NK'],Homeo domain factors,CCAATTAA,-9.097861449612525,155
+50,MA0492.1,JUND,['Jun-related'],Basic leucine zipper factors (bZIP),AAAGATGATGTCATC,-9.102290906991804,156
+377,MA1152.1,SOX15,['SOX-related factors'],High-mobility group (HMG) domain factors,CTATTGTTTT,-9.106809769865603,157
+112,MA0652.1,IRF8,['Interferon-regulatory factors'],Tryptophan cluster factors,TCGAAACCGAAACT,-9.108730828511035,158
+199,MA0758.1,E2F7,['E2F'],Fork head/winged helix factors,TTTTCCCGCCAAAA,-9.113707017393141,159
+68,MA0591.1,Bach1::Mafk,"['Jun-related', 'Maf-related']",Basic leucine zipper factors (bZIP),AGGATGACTCAGCAC,-9.118063747966389,160
+341,MA0442.2,SOX10,['SOX-related factors'],High-mobility group (HMG) domain factors,AAAACAAAGAA,-9.12494234469497,161
+129,MA0048.2,NHLH1,['Tal-related'],Basic helix-loop-helix factors (bHLH),CGCAGCTGCG,-9.125302473150695,162
+121,MA0662.1,MIXL1,['Paired-related HD factors'],Homeo domain factors,TCTAATTAAC,-9.125392894358983,163
+595,MA0102.4,CEBPA,['CEBP-related'],Basic leucine zipper factors (bZIP),TTATTGCACAATAT,-9.129409646520665,164
+333,MA1111.1,NR2F2,['RXR-related receptors (NR2)'],Nuclear receptors with C4 zinc fingers,CAAAGGTCAAA,-9.134883317505865,165
+288,MA0861.1,TP73,['p53-related factors'],p53 domain factors,GACATGTCTGGACATGTC,-9.135091658026516,166
+548,MA1714.1,ZNF675,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,AGGACTAGGAGGACAAAATGT,-9.13810439095048,167
+100,MA0645.1,ETV6,['Ets-related'],Tryptophan cluster factors,AGCGGAAGTG,-9.138453146585748,168
+770,MA0607.2,BHLHA15,['Tal-related'],Basic helix-loop-helix factors (bHLH),ACCATATGGT,-9.138660199282148,169
+616,MA1105.2,GRHL2,['Grainyhead-related factors'],Grainyhead domain factors,AAAACAGGTTTT,-9.140856191597807,170
+56,MA0517.1,STAT1::STAT2,"['STAT factors', 'STAT factors']",STAT domain factors,TCAGTTTCATTTTCC,-9.151832790778807,171
+545,MA1711.1,ZNF343,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CCGCTTCACCACGGCAC,-9.154540515353673,172
+641,MA1113.2,PBX2,['TALE-type homeo domain factors'],Homeo domain factors,GTCATAAATCATT,-9.154699866738353,173
+240,MA0804.1,TBX19,['Brachyury-related factors'],T-Box factors,TTTCACACCTAGGTGTGAAA,-9.157460982359549,174
+382,MA1421.1,TCF7L1,['TCF-7-related factors'],High-mobility group (HMG) domain factors,AAAGATCAAAGG,-9.159525487342963,175
+3,MA0029.1,Mecom,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,AAGATAAGATAACA,-9.16688869164039,176
+554,MA1720.1,ZNF85,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,AAAGAGATTACAGCAG,-9.169552081335082,177
+74,MA0602.1,Arid5a,['ARID-related'],ARID,CTAATATTGCTAAA,-9.170339075923325,178
+175,MA0141.3,ESRRB,['Steroid hormone receptors (NR3)'],Nuclear receptors with C4 zinc fingers,TCAAGGTCATA,-9.180297358634277,179
+793,MA0754.2,CUX1,['HD-CUT'],Homeo domain factors,TAATCGATAA,-9.187096546866318,180
+9,MA0066.1,PPARG,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,GTAGGTCACGGTGACCTACT,-9.193202322446957,181
+785,MA0693.3,Vdr,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,CTGAGTTCATA,-9.193632962254748,182
+208,MA0773.1,MEF2D,['Regulators of differentiation'],MADS box factors,ACTATAAATAGA,-9.204291204669957,183
+696,MA1958.1,HOXD12::ELK1,"['HOX', 'Ets-related']",Homeo domain factors,GGGCGGAAGTCGTAAAA,-9.211828523497728,184
+596,MA0836.2,CEBPD,['CEBP-related'],Basic leucine zipper factors (bZIP),TATTGCACAATAT,-9.212487755010716,185
+490,MA1607.1,Foxl2,['FOX'],Fork head/winged helix factors,AATATGTAAACAAA,-9.212614940372033,186
+774,MA0633.2,Twist2,['Tal-related'],Basic helix-loop-helix factors (bHLH),CGCAGCTGCG,-9.213295779416422,187
+163,MA0715.1,PROP1,['Paired-related HD factors'],Homeo domain factors,TAATTTAATTA,-9.21393641473792,188
+324,MA0852.2,FOXK1,['FOX'],Fork head/winged helix factors,AATGTAAACAAGGC,-9.217901428436685,189
+614,MA0482.2,GATA4,['C4-GATA-related'],Other C4 zinc finger-type factors,TTCCTTATCTTT,-9.220258998052795,190
+62,MA0076.2,ELK4,['Ets-related'],Tryptophan cluster factors,CCACTTCCGGC,-9.228575811831734,191
+27,MA0125.1,Nobox,['Paired-related HD factors'],Homeo domain factors,TAATTGGT,-9.239363087777129,192
+623,MA0039.4,KLF4,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,CGCCCCACCCCC,-9.244885203029462,193
+742,MA0041.2,FOXD3,['FOX'],Fork head/winged helix factors,AAAGTAAATAAACAAT,-9.245631587813072,194
+181,MA0730.1,RARA,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,AGGTCATGCAAAGGTCA,-9.24807818136061,195
+611,MA0481.3,FOXP1,['FOX'],Fork head/winged helix factors,ATGTAAACATA,-9.254967255131614,196
+339,MA1118.1,SIX1,['HD-SINE'],Homeo domain factors,GTAACCTGATA,-9.256619337779929,197
+344,MA1122.1,TFDP1,['E2F'],Fork head/winged helix factors,GGGCGGGAAGG,-9.258439096685384,198
+403,MA1496.1,HOXA4,['HOX'],Homeo domain factors,GTCATTAG,-9.26082274573977,199
+168,MA0720.1,Shox2,['Paired-related HD factors'],Homeo domain factors,CTAATTAA,-9.262869867524428,200
+687,MA1949.1,FLI1::DRGX,"['Paired-related HD factors', 'Ets-related']",Homeo domain factors,ACCGGAAGTAATTAT,-9.262888396790816,201
+291,MA0024.3,E2F1,['E2F'],Fork head/winged helix factors,TTTGGCGCCAAA,-9.265542743105616,202
+260,MA0826.1,OLIG1,['Tal-related'],Basic helix-loop-helix factors (bHLH),AACATATGTT,-9.269858534754183,203
+570,MA1643.1,NFIB,['Nuclear factor 1'],SMAD/NF-1 DNA-binding domain factors,TGCCTGGCATTGTGCCAAGCA,-9.285244277050985,204
+224,MA0789.1,POU3F4,['POU domain factors'],Homeo domain factors,TATGCAAAT,-9.289344244798299,205
+358,MA1132.1,JUN::JUNB,"['Jun-related', 'Jun-related']",Basic leucine zipper factors (bZIP),GATGACTCAT,-9.29176701441055,206
+269,MA0843.1,TEF,['CEBP-related'],Basic leucine zipper factors (bZIP),TATTACGTAACA,-9.295744356596547,207
+286,MA0525.2,TP63,['p53-related factors'],p53 domain factors,AACATGTTGGGACATGTC,-9.299488051838761,208
+826,MA1518.2,Lhx1,['HD-LIM'],Homeo domain factors,AGGTGCTAATTAGCACCT,-9.300967040468603,209
+295,MA0028.2,ELK1,['Ets-related'],Tryptophan cluster factors,ACCGGAAGTG,-9.304473329451096,210
+321,MA0908.1,HOXD11,['HOX'],Homeo domain factors,GTCGTAAAAA,-9.304956430268193,211
+766,MA0516.3,SP2,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,GGGGCGGGG,-9.30736382241066,212
+5,MA0031.1,FOXD1,['FOX'],Fork head/winged helix factors,GTAAACAT,-9.3082346279199,213
+255,MA0820.1,FIGLA,['Tal-related'],Basic helix-loop-helix factors (bHLH),ACCACCTGTT,-9.309112982631063,214
+707,MA1969.1,THRA,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,CCTGTGTCCTCATGTGACCTCTCC,-9.311665406810095,215
+312,MA0895.1,HMBOX1,['POU domain factors'],Homeo domain factors,ACTAGTTAAC,-9.318920612600607,216
+263,MA0834.1,ATF7,['Jun-related'],Basic leucine zipper factors (bZIP),CGATGACGTCATCG,-9.322936324758166,217
+322,MA0911.1,Hoxa11,['HOX'],Homeo domain factors,GGTCGTAAAATT,-9.324162673138476,218
+579,MA1653.1,ZNF148,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CCCCCCTCCCCC,-9.324671306559422,219
+471,MA1580.1,ZBTB32,['Other factors with up to three adjacent zinc fingers'],C2H2 zinc finger factors,TGTACAGTAT,-9.327723284813246,220
+167,MA0719.1,RHOXF1,['Paired-related HD factors'],Homeo domain factors,ATAATCCC,-9.329556351796182,221
+563,MA1636.1,CEBPG,['CEBP-related'],Basic leucine zipper factors (bZIP),AAATGATGCAATCAT,-9.332052468490886,222
+283,MA0858.1,Rarb,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,AGGTCAACTAAAGGTCA,-9.333732641009961,223
+606,MA0761.2,ETV1,['Ets-related'],Tryptophan cluster factors,AAACAGGAAGTGAA,-9.33820756765206,224
+613,MA0035.4,GATA1,['C4-GATA-related'],Other C4 zinc finger-type factors,TTCTAATCTAT,-9.345600091736848,225
+444,MA1548.1,PLAGL2,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,TGGGCCCCCT,-9.348740567947823,226
+225,MA0790.1,POU4F1,['POU domain factors'],Homeo domain factors,ATGAATAATTAATG,-9.349969524007562,227
+539,MA0753.2,ZNF740,['Other factors with up to three adjacent zinc fingers'],C2H2 zinc finger factors,CCGCCCCCCCCAC,-9.35383374021855,228
+258,MA0058.3,MAX,['bHLH-ZIP'],Basic helix-loop-helix factors (bHLH),ACCACGTGCT,-9.354916755048372,229
+126,MA0669.1,NEUROG2,['Tal-related'],Basic helix-loop-helix factors (bHLH),AACATATGTC,-9.357223222901405,230
+752,MA0156.3,FEV,['Ets-related'],Tryptophan cluster factors,AACCGGAAGTGA,-9.357939138637743,231
+485,MA1600.1,ZNF684,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,ATACAGTCCACCCCTTTA,-9.36544459959567,232
+45,MA0476.1,FOS,['Fos-related'],Basic leucine zipper factors (bZIP),TGTGACTCATT,-9.365992763835397,233
+830,MA1547.2,PITX2,['Paired-related HD factors'],Homeo domain factors,TTAATCCC,-9.366606266655758,234
+314,MA0897.1,Hmx2,['NK'],Homeo domain factors,ACAAGCAATTAAAGAAT,-9.372910060219574,235
+799,MA0784.2,POU1F1,['POU domain factors'],Homeo domain factors,AGCTAATTTGCATAAT,-9.37360099617097,236
+561,MA1634.1,BATF,['B-ATF-related factors'],Basic leucine zipper factors (bZIP),TATGACTCATA,-9.373911758487534,237
+547,MA1713.1,ZNF610,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CCCGCCGCTCCCCC,-9.374334493866943,238
+172,MA0725.1,VSX1,['Paired-related HD factors'],Homeo domain factors,CTAATTAT,-9.377602167838885,239
+713,MA1975.1,ZNF214,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,ATTCATCAAGGTCCT,-9.377934984958681,240
+694,MA1956.1,FOXO1::FLI1,"['FOX', 'Ets-related']",Fork head/winged helix factors,GTAAACAGGAAGTG,-9.380783911531912,241
+622,MA0491.2,JUND,['Jun-related'],Basic leucine zipper factors (bZIP),TGATGACTCATCC,-9.384176775897531,242
+293,MA0870.1,Sox1,['SOX-related factors'],High-mobility group (HMG) domain factors,AACAATAACATTGTT,-9.385753613081699,243
+52,MA0497.1,MEF2C,['Regulators of differentiation'],MADS box factors,ATGCTAAAAATAGAA,-9.387837174844355,244
+26,MA0119.1,NFIC::TLX1,"['Nuclear factor 1', 'NK']",SMAD/NF-1 DNA-binding domain factors,TGGCACCATGCCAA,-9.390287344398851,245
+625,MA0700.2,LHX2,['HD-LIM'],Homeo domain factors,AACCAATTAAT,-9.390739698394071,246
+165,MA0717.1,RAX2,['Paired-related HD factors'],Homeo domain factors,CCAATTAA,-9.393812145544585,247
+523,MA0912.2,HOXD3,['HOX'],Homeo domain factors,CTAATTAC,-9.39981107261721,248
+197,MA0755.1,CUX2,['HD-CUT'],Homeo domain factors,TAATCGATAA,-9.400132904915651,249
+618,MA0114.4,HNF4A,['RXR-related receptors (NR2)'],Nuclear receptors with C4 zinc fingers,TCCAAAGTCCAAA,-9.402705148326485,250
+538,MA0871.2,TFEC,['bHLH-ZIP'],Basic helix-loop-helix factors (bHLH),CCCACGTGACC,-9.40749163512067,251
+809,MA0865.2,E2F8,['E2F'],Fork head/winged helix factors,TTCCCGCCAAAA,-9.407762361851596,252
+309,MA0891.1,GSC2,['Paired-related HD factors'],Homeo domain factors,CCTAATCCGC,-9.412055858240247,253
+4,MA0030.1,FOXF2,['FOX'],Fork head/winged helix factors,CAAACGTAAACAAT,-9.424652674692705,254
+717,MA1979.1,ZNF416,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,TATCTGGGCAC,-9.438354857899286,255
+273,MA0846.1,FOXC2,['FOX'],Fork head/winged helix factors,TAAGTAAACAAA,-9.439363136763733,256
+70,MA0595.1,SREBF1,['bHLH-ZIP'],Basic helix-loop-helix factors (bHLH),ATCACCCCAC,-9.439404547793298,257
+601,MA0162.4,EGR1,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,CCACGCCCACGCCC,-9.439822159872607,258
+765,MA0514.2,Sox3,['SOX-related factors'],High-mobility group (HMG) domain factors,AAACAATGGAA,-9.446331455137551,259
+298,MA0875.1,BARX1,['NK'],Homeo domain factors,GCAATTAG,-9.446517295304298,260
+279,MA0854.1,Alx1,['Paired-related HD factors'],Homeo domain factors,CGAATTAATTAATCACC,-9.44781141246604,261
+203,MA0763.1,ETV3,['Ets-related'],Tryptophan cluster factors,ACCGGAAGTG,-9.449714420856106,262
+530,MA0623.2,NEUROG1,['Tal-related'],Basic helix-loop-helix factors (bHLH),GACATATGTC,-9.454660064019317,263
+405,MA1499.1,HOXB4,['HOX'],Homeo domain factors,ATCATTAG,-9.456515182983125,264
+386,MA1468.1,ATOH7,['Tal-related'],Basic helix-loop-helix factors (bHLH),AACATATGTC,-9.456939709298586,265
+153,MA0704.1,Lhx4,['HD-LIM'],Homeo domain factors,TTAATTAA,-9.461060573633857,266
+227,MA0792.1,POU5F1B,['POU domain factors'],Homeo domain factors,TATGCAAAT,-9.461522889427993,267
+514,MA0893.2,GSX2,['HOX'],Homeo domain factors,GTAATTAG,-9.466931772322768,268
+519,MA0594.2,HOXA9,['HOX'],Homeo domain factors,GTCGTAAACG,-9.471244239119741,269
+640,MA0712.2,OTX2,['Paired-related HD factors'],Homeo domain factors,AAGGGATTAGAA,-9.472261664322524,270
+115,MA0655.1,JDP2,['Fos-related'],Basic leucine zipper factors (bZIP),ATGACTCAT,-9.474742010616488,271
+459,MA1565.1,TBX18,['TBX1-related factors'],T-Box factors,GGAGGTGTGAAA,-9.483162583637148,272
+145,MA0689.1,TBX20,['TBX1-related factors'],T-Box factors,TAGGTGTGAAG,-9.483652884991578,273
+387,MA1101.2,BACH2,['Jun-related'],Basic leucine zipper factors (bZIP),AAAGCATGACTCATCATTT,-9.484079339825465,274
+334,MA0014.3,PAX5,['Paired domain only'],Paired box factors,GAGCGTGACCCC,-9.4840995075795,275
+133,MA0675.1,NKX6-2,['NK'],Homeo domain factors,CTAATTAA,-9.48440122101839,276
+788,MA0708.2,MSX2,['NK'],Homeo domain factors,CCAATTAA,-9.485848759341067,277
+241,MA0805.1,TBX1,['TBX1-related factors'],T-Box factors,AGGTGTGA,-9.500019986121982,278
+69,MA0593.1,FOXP2,['FOX'],Fork head/winged helix factors,AAGTAAACAAA,-9.50165584162285,279
+278,MA0853.1,Alx4,['Paired-related HD factors'],Homeo domain factors,CGCATTAATTAATTACC,-9.505498240728448,280
+468,MA1577.1,TLX2,['NK'],Homeo domain factors,CTAATTAG,-9.506095982522849,281
+510,MA0470.2,E2F4,['E2F'],Fork head/winged helix factors,TTTTGGCGCCATTT,-9.523834782297776,282
+645,MA0508.3,PRDM1,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,TTCTTTCTCTT,-9.53854517544317,283
+151,MA0698.1,ZBTB18,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CATCCAGATGTTC,-9.53987774251237,284
+75,MA0603.1,Arntl,['PAS domain factors'],Basic helix-loop-helix factors (bHLH),GGTCACGTGC,-9.541320711127879,285
+615,MA1104.2,GATA6,['C4-GATA-related'],Other C4 zinc finger-type factors,TTATCTTATCTTT,-9.542022279329187,286
+430,MA1530.1,NKX6-3,['NK'],Homeo domain factors,CTCATTAAA,-9.546445570396033,287
+731,MA1993.1,Neurod2,['Tal-related'],Basic helix-loop-helix factors (bHLH),GCCAGCTGGC,-9.546985760243142,288
+429,MA1529.1,NHLH2,['Tal-related'],Basic helix-loop-helix factors (bHLH),GGGCCGCAGCTGCGTCCC,-9.548854705630077,289
+475,MA1585.1,ZKSCAN1,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,ATAGTAGGTG,-9.557278155945589,290
+67,MA0140.2,GATA1::TAL1,"['C4-GATA-related', 'Tal-related']",Other C4 zinc finger-type factors,CTTATCTGTGAGGAGCAG,-9.567222592591788,291
+173,MA0726.1,VSX2,['Paired-related HD factors'],Homeo domain factors,CTAATTAG,-9.569777179013972,292
+406,MA1500.1,HOXB6,['HOX'],Homeo domain factors,TTAATTAC,-9.572621998234121,293
+47,MA0479.1,FOXH1,['FOX'],Fork head/winged helix factors,TCCAATCCACA,-9.578297332045056,294
+757,MA0474.3,Erg,['Ets-related'],Tryptophan cluster factors,AAACAGGAAGTGGG,-9.579896677973913,295
+607,MA0477.2,FOSL1,['Fos-related'],Basic leucine zipper factors (bZIP),TGATGACTCATCC,-9.580076117570782,296
+605,MA0592.3,ESRRA,['Steroid hormone receptors (NR3)'],Nuclear receptors with C4 zinc fingers,GCTCAAGGTCACA,-9.581022330900089,297
+576,MA1650.1,ZBTB14,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CCCCGCGCACCC,-9.58228155537419,298
+221,MA0786.1,POU3F1,['POU domain factors'],Homeo domain factors,TTATGCAAATTA,-9.58946142641302,299
+294,MA0872.1,TFAP2A,['AP-2'],Basic helix-span-helix factors (bHSH),TGCCCTGAGGGCA,-9.593104574396573,300
+124,MA0665.1,MSC,['Tal-related'],Basic helix-loop-helix factors (bHLH),AACAGCTGTT,-9.596029748539655,301
+325,MA0036.3,GATA2,['C4-GATA-related'],Other C4 zinc finger-type factors,TTCTTATCTTT,-9.599117907974424,302
+532,MA0682.2,PITX1,['Paired-related HD factors'],Homeo domain factors,CTAATCCC,-9.600675706796867,303
+597,MA0018.4,CREB1,['CREB-related factors'],Basic leucine zipper factors (bZIP),TTATGATGTCATA,-9.606192678523836,304
+63,MA0258.2,ESR2,['Steroid hormone receptors (NR3)'],Nuclear receptors with C4 zinc fingers,AGGTCACCCTGACCT,-9.610613947793121,305
+567,MA1640.1,MEIS2,['TALE-type homeo domain factors'],Homeo domain factors,AAATGATTTATGGCT,-9.613013410184626,306
+169,MA0721.1,UNCX,['Paired-related HD factors'],Homeo domain factors,CTAATTAA,-9.61605356827631,307
+771,MA0611.2,Dux,['Paired-related HD factors'],Homeo domain factors,CTGATTCAATCACTTA,-9.616439160556412,308
+394,MA1479.1,DMRTC2,['DMRT factors'],DM-type intertwined zinc finger factors,AATTGATACATT,-9.62025639335549,309
+427,MA1527.1,NFIC,['Nuclear factor 1'],SMAD/NF-1 DNA-binding domain factors,GTTGGCACGGTGCCAAC,-9.622579084373529,310
+82,MA0618.1,LBX1,['NK'],Homeo domain factors,TTAATTAG,-9.627698348299598,311
+307,MA0889.1,GBX1,['HOX'],Homeo domain factors,ACTAATTAGC,-9.629350679083174,312
+820,MA1476.2,Dlx5,['NK'],Homeo domain factors,AAGCAATTAGCA,-9.629622065567307,313
+97,MA0641.1,ELF4,['Ets-related'],Tryptophan cluster factors,AACCCGGAAGTG,-9.633046538987383,314
+149,MA0695.1,ZBTB7C,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GCGACCACCGAA,-9.633401151202001,315
+198,MA0757.1,ONECUT3,['HD-CUT'],Homeo domain factors,AAAAAATCAATAAT,-9.636070546130755,316
+649,MA0745.2,SNAI2,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,ATGCACCTGTCAT,-9.641348757182827,317
+90,MA0631.1,Six3,['HD-SINE'],Homeo domain factors,GATAGGGTATCACTAAT,-9.647228921594616,318
+703,MA1965.1,SP5,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,CCCCTCCCCC,-9.647634662571317,319
+109,MA0046.2,HNF1A,['POU domain factors'],Homeo domain factors,AGTTAATGATTAACT,-9.656199732514466,320
+101,MA0475.2,FLI1,['Ets-related'],Tryptophan cluster factors,ACCGGAAGTG,-9.66021209077136,321
+176,MA0017.2,NR2F1,['RXR-related receptors (NR2)'],Nuclear receptors with C4 zinc fingers,CAAAGGTCAAGGG,-9.661671113577855,322
+174,MA0112.3,ESR1,['Steroid hormone receptors (NR3)'],Nuclear receptors with C4 zinc fingers,AAGGTCACGGTGACCTG,-9.666334164357815,323
+14,MA0073.1,RREB1,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,CCCCAAACCACCCCCCCCCA,-9.667820961707928,324
+408,MA1502.1,HOXB8,['HOX'],Homeo domain factors,GCAATTAC,-9.675090044182353,325
+102,MA0042.2,FOXI1,['FOX'],Fork head/winged helix factors,GTAAACA,-9.675225576061267,326
+264,MA0838.1,CEBPG,['CEBP-related'],Basic leucine zipper factors (bZIP),ATTGCGCAAT,-9.677689598538272,327
+676,MA1938.1,ERF::NHLH1,"['Ets-related', 'Tal-related']",Tryptophan cluster factors,AGCAGCTGCCGGAAGTA,-9.682229246956387,328
+205,MA0770.1,HSF2,['HSF factors'],Heat shock factors,TTCTAGAACGTTC,-9.686080667229854,329
+332,MA0060.3,NFYA,['NFY'],Other alpha,AACCAATCAGA,-9.696496236428615,330
+450,MA1555.1,RXRB,['RXR-related receptors (NR2)'],Nuclear receptors with C4 zinc fingers,GAGGTCATGACCTC,-9.699702949466362,331
+482,MA1596.1,ZNF460,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GCCTCAGCCTCCCGAG,-9.700394420902084,332
+361,MA1135.1,FOSB::JUNB,"['Fos-related', 'Jun-related']",Basic leucine zipper factors (bZIP),GATGACTCAT,-9.703776240593374,333
+425,MA1522.1,MAZ,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CGCCCCTCCCC,-9.707348561247407,334
+553,MA1719.1,ZNF816,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,AAATGGGGACATGCAGGG,-9.712271634435176,335
+527,MA0701.2,LHX9,['HD-LIM'],Homeo domain factors,CTAATTAA,-9.716980628129205,336
+789,MA0723.2,VAX2,['NK'],Homeo domain factors,GTAATTAG,-9.717865352449754,337
+338,MA1117.1,RELB,['NF-kappaB-related factors'],Rel homology region (RHR) factors,GAATTCCCCGG,-9.722877129079219,338
+689,MA1951.1,FOS,['Fos-related'],Basic leucine zipper factors (bZIP),TGATGACGTCATCA,-9.729130015822177,339
+630,MA1108.2,MXI1,['bHLH-ZIP'],Basic helix-loop-helix factors (bHLH),GACACATGGC,-9.730833620900782,340
+714,MA1976.1,ZNF320,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,AGGGGGGCCCGGGGGCCTGTGCGAGGG,-9.732219366579699,341
+805,MA0828.2,SREBF2,['bHLH-ZIP'],Basic helix-loop-helix factors (bHLH),TTATCACGTGATAA,-9.739283516434455,342
+655,MA0769.2,TCF7,['TCF-7-related factors'],High-mobility group (HMG) domain factors,TCCTTTGATGT,-9.743163828601261,343
+489,MA1606.1,Foxf1,['FOX'],Fork head/winged helix factors,ATGTAAACAAA,-9.745802155818371,344
+284,MA0859.1,Rarg,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,AAGGTCAAAAGGTCAA,-9.747618913295877,345
+268,MA0841.1,NFE2,['Jun-related'],Basic leucine zipper factors (bZIP),CATGACTCATC,-9.752569991834864,346
+354,MA1128.1,FOSL1::JUN,"['Fos-related', 'Jun-related']",Basic leucine zipper factors (bZIP),TGATGACTCATCC,-9.752771705237576,347
+791,MA0740.2,KLF14,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,GGGGCGGGG,-9.758838734207231,348
+12,MA0071.1,RORA,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,ATCAAGGTCA,-9.761325917033632,349
+84,MA0621.1,mix-a,['Paired-related HD factors'],Homeo domain factors,AATTAATTAGT,-9.76187925290108,350
+550,MA1716.1,ZNF76,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CCTACCCACAATGCACCGCGC,-9.766341408187024,351
+776,MA0644.2,ESX1,['Paired-related HD factors'],Homeo domain factors,CTAATTAG,-9.773300794618281,352
+342,MA1120.1,SOX13,['SOX-related factors'],High-mobility group (HMG) domain factors,AAACAATGGCA,-9.775910876472699,353
+505,MA0605.2,ATF3,['Fos-related'],Basic leucine zipper factors (bZIP),GATGACGTCATC,-9.776081046293275,354
+585,MA1725.1,ZNF189,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CATGCTGTTCCCT,-9.787216733597816,355
+375,MA1150.1,RORB,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,AATTAGGTCAC,-9.787539081026706,356
+698,MA1960.1,MGA::EVX1,"['TBX6-related factors', 'HOX']",T-Box factors,AGGTGTTAATGA,-9.789939468282823,357
+745,MA0078.2,Sox17,['SOX-related factors'],High-mobility group (HMG) domain factors,AAAGAACAATGGAA,-9.792237323425843,358
+720,MA1982.1,ZNF574,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,GGGCTAGAGCGGCCC,-9.792588492519593,359
+646,MA0684.2,RUNX3,['Runt-related factors'],Runt domain factors,AAAACCTCAAAT,-9.802657948087369,360
+732,MA1994.1,Nkx2-1,['NK'],Homeo domain factors,ACCACTTGAACTT,-9.803749433624732,361
+266,MA0840.1,Creb5,['CREB-related factors'],Basic leucine zipper factors (bZIP),AATGACGTCACC,-9.806861603148882,362
+19,MA0092.1,Hand1::Tcf3,"['Tal-related', 'E2A']",Basic helix-loop-helix factors (bHLH),GGTCTGGCAT,-9.80725177623,363
+61,MA0527.1,ZBTB33,['Other factors with up to three adjacent zinc fingers'],C2H2 zinc finger factors,CTCTCGCGAGATCTG,-9.808168984537568,364
+562,MA1635.1,BHLHE22,['Tal-related'],Basic helix-loop-helix factors (bHLH),CGCAGCTGCG,-9.80845335924211,365
+423,MA1520.1,MAF,['Maf-related'],Basic leucine zipper factors (bZIP),ATGCTGAGTCAGCAA,-9.810896384859905,366
+575,MA1649.1,ZBTB12,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,ATCTGGAACCC,-9.810917564586832,367
+461,MA1569.1,TFAP2E,['AP-2'],Basic helix-span-helix factors (bHSH),CGCCTCAGGCG,-9.815659297877813,368
+99,MA0643.1,Esrrg,['Steroid hormone receptors (NR3)'],Nuclear receptors with C4 zinc fingers,TCAAGGTCAT,-9.818507184926068,369
+417,MA1513.1,KLF15,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,GCCCCGCCCCC,-9.828317094414412,370
+17,MA0084.1,SRY,['SOX-related factors'],High-mobility group (HMG) domain factors,GTAAACAAT,-9.831629178438378,371
+155,MA0706.1,MEOX2,['HOX'],Homeo domain factors,AGTAATTAAC,-9.835423401877591,372
+301,MA0881.1,Dlx4,['NK'],Homeo domain factors,CCAATTAC,-9.84202993715725,373
+433,MA1534.1,NR1I3,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,ATGAACTTT,-9.844491154026185,374
+144,MA0688.1,TBX2,['TBX2-related factors'],T-Box factors,AAGGTGTGAAA,-9.845748501610744,375
+573,MA1646.1,OSR2,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,AAACAGAAGCAG,-9.847543963777646,376
+779,MA0659.3,Mafg,['Maf-related'],Basic leucine zipper factors (bZIP),GTGCTGACTCAGCAG,-9.860822219390865,377
+228,MA0793.1,POU6F2,['POU domain factors'],Homeo domain factors,AGCTCATTAT,-9.861250027816677,378
+401,MA1494.1,HNF4A,['RXR-related receptors (NR2)'],Nuclear receptors with C4 zinc fingers,GGGTCCAAAGGTCAC,-9.864158362406192,379
+541,MA1707.1,DMRTA1,['DMRT factors'],DM-type intertwined zinc finger factors,AATTGTTACATT,-9.86546085707076,380
+323,MA0914.1,ISL2,['HD-LIM'],Homeo domain factors,GCACTTAA,-9.868287357728907,381
+388,MA1470.1,BACH2,['Jun-related'],Basic leucine zipper factors (bZIP),AAAGCATGACGTCATGATTT,-9.875595187620876,382
+452,MA1557.1,SMAD5,['SMAD factors'],SMAD/NF-1 DNA-binding domain factors,TGTCTAGACA,-9.877889171621684,383
+748,MA0087.2,Sox5,['SOX-related factors'],High-mobility group (HMG) domain factors,GAGAACAATGGGA,-9.883990866972974,384
+651,MA0081.2,SPIB,['Ets-related'],Tryptophan cluster factors,TTTCACTTCCTCTTTT,-9.887635021636898,385
+466,MA1575.1,THRB,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,GTGACCTCATTGAGGTCAC,-9.900547188731382,386
+202,MA0762.1,ETV2,['Ets-related'],Tryptophan cluster factors,AACCGGAAATA,-9.904377169857316,387
+465,MA1574.1,THRB,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,GGGGTCAAAGGTCAT,-9.906104383761978,388
+560,MA1632.1,ATF2,['Jun-related'],Basic leucine zipper factors (bZIP),AAATGAGGTCATT,-9.909475892837797,389
+695,MA1957.1,HOXB2::ELK1,"['HOX', 'Ets-related']",Homeo domain factors,ACCGGAAGTCATTA,-9.910624115435425,390
+491,MA1608.1,Isl1,['HD-LIM'],Homeo domain factors,ATCCATTAGCA,-9.919810323977648,391
+715,MA1977.1,ZNF324,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GCCAGGAAGACAAGGATGGTT,-9.929211590457571,392
+488,MA1604.1,Ebf2,['Early B-Cell Factor-related factors'],Rel homology region (RHR) factors,TTCCCAAGGGACT,-9.93056121938253,393
+758,MA0480.2,Foxo1,['FOX'],Fork head/winged helix factors,ATGTAAACAGA,-9.9340107034382,394
+691,MA1953.1,FOXO1::ELF1,"['FOX', 'Ets-related']",Fork head/winged helix factors,GTAAACAGGAAGTA,-9.936652571318044,395
+217,MA0780.1,PAX3,['Paired plus homeo domain'],Paired box factors,TAATCGATTA,-9.937874241999252,396
+393,MA1478.1,DMRTA2,['DMRT factors'],DM-type intertwined zinc finger factors,AATTGTTACATT,-9.93843523939682,397
+818,MA1467.2,Atoh1,['Tal-related'],Basic helix-loop-helix factors (bHLH),GACAGATGGCA,-9.938666954904283,398
+158,MA0124.2,Nkx3-1,['NK'],Homeo domain factors,ACCACTTAA,-9.938911925837953,399
+141,MA0687.1,SPIC,['Ets-related'],Tryptophan cluster factors,AAAAAGAGGAAGTA,-9.946938649408876,400
+77,MA0608.1,Creb3l2,['CREB-related factors'],Basic leucine zipper factors (bZIP),GCCACGTGT,-9.951628417002198,401
+137,MA0068.2,PAX4,['Paired plus homeo domain'],Paired box factors,CTAATTAG,-9.960389575163727,402
+303,MA0883.1,Dmbx1,['Paired-related HD factors'],Homeo domain factors,TGAACCGGATTAATGAA,-9.961342341871562,403
+569,MA1642.1,NEUROG2,['Tal-related'],Basic helix-loop-helix factors (bHLH),GGAACAGATGGCA,-9.974141902086322,404
+686,MA1948.1,ETV5::HOXA2,"['Ets-related', 'HOX-related factors']",Tryptophan cluster factors,AGCGGAAGTAATTA,-9.978837445078224,405
+431,MA1531.1,NR1D1,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,GGGTCAGTAGGTCAG,-9.979940905539495,406
+34,MA0002.2,Runx1,['Runt-related factors'],Runt domain factors,GTCTGTGGTTT,-9.980102335877122,407
+400,MA1493.1,HES6,['Hairy-related factors'],Basic helix-loop-helix factors (bHLH),GGCACGTGTT,-9.980605961042825,408
+577,MA1651.1,ZFP42,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GTTCCAAAATGGCTGCCTCCG,-9.980975558809353,409
+103,MA0033.2,FOXL1,['FOX'],Fork head/winged helix factors,GTAAACA,-9.982101295672813,410
+396,MA1481.1,DRGX,['Paired-related HD factors'],Homeo domain factors,CTAATTAC,-9.98476372923006,411
+200,MA0760.1,ERF,['Ets-related'],Tryptophan cluster factors,ACCGGAAGTG,-9.985452446583809,412
+49,MA0488.1,JUN,['Jun-related'],Basic leucine zipper factors (bZIP),AAGATGATGTCAT,-9.986732288830828,413
+114,MA0654.1,ISX,['Paired-related HD factors'],Homeo domain factors,CTAATTAA,-9.991612836195879,414
+443,MA1546.1,PAX3,['Paired plus homeo domain'],Paired box factors,CCGTCACGCTAATTAA,-9.999246813209758,415
+685,MA1947.1,ETV5::FOXO1,"['Ets-related', 'FOX']",Tryptophan cluster factors,GTAAACAGGAAGT,-9.99947858120731,416
+191,MA0741.1,KLF16,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,GCCACGCCCCC,-10.004418149100392,417
+113,MA0653.1,IRF9,['Interferon-regulatory factors'],Tryptophan cluster factors,AACGAAACCGAAACT,-10.005233120227118,418
+638,MA1112.2,NR4A1,['NGFI-B-related receptors (NR4)'],Nuclear receptors with C4 zinc fingers,TTAAAGGTCAAA,-10.007130805680788,419
+612,MA0062.3,GABPA,['Ets-related'],Tryptophan cluster factors,CCCACTTCCTGTTT,-10.00764305149711,420
+566,MA1639.1,MEIS1,['TALE-type homeo domain factors'],Homeo domain factors,GTCATCAATCATT,-10.013073203986421,421
+586,MA1726.1,ZNF331,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CCCTGCAGAGCCCT,-10.02183894629959,422
+629,MA0620.3,MITF,['bHLH-ZIP'],Basic helix-loop-helix factors (bHLH),TAAAGTCACGTGACTTTA,-10.022208329464059,423
+775,MA0642.2,EN2,['NK'],Homeo domain factors,CCCAATTA,-10.022649306405501,424
+317,MA0903.1,HOXB3,['HOX'],Homeo domain factors,ACTAATTAGC,-10.030555091130319,425
+363,MA1137.1,FOSL1::JUNB,"['Fos-related', 'Jun-related']",Basic leucine zipper factors (bZIP),TGATGACTCATAC,-10.03306789763928,426
+189,MA0738.1,HIC2,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,ATGCCCACC,-10.036148622759116,427
+32,MA0149.1,EWSR1-FLI1,['Ets-related'],Tryptophan cluster factors,GGAAGGAAGGAAGGAAGG,-10.03859827759564,428
+381,MA1420.1,IRF5,['Interferon-regulatory factors'],Tryptophan cluster factors,CCGAAACCGAAACT,-10.042180463332713,429
+648,MA0744.2,SCRT2,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,AAAGCAACAGGTGGTT,-10.045988207565404,430
+432,MA1533.1,NR1I2,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,ATGAACTCGATGAACTC,-10.046013916482012,431
+801,MA0799.2,RFX4,['RFX-related factors'],Fork head/winged helix factors,CCGTTGCTTAGCAACGG,-10.049196238537895,432
+451,MA1556.1,RXRG,['RXR-related receptors (NR2)'],Nuclear receptors with C4 zinc fingers,GAGGTCATGACCTC,-10.050494295841188,433
+578,MA1652.1,ZKSCAN5,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,GGAGGAGGTGAGAA,-10.050709182091996,434
+275,MA0849.1,FOXO6,['FOX'],Fork head/winged helix factors,GTAAACA,-10.05131744465544,435
+738,MA2001.1,Six4,['HD-SINE'],Homeo domain factors,GAAACCTGAGC,-10.054431156750303,436
+759,MA0489.2,Jun,['Jun-related'],Basic leucine zipper factors (bZIP),TATGACTCATCT,-10.055665399236952,437
+746,MA0079.5,SP1,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,GGGGCGGGG,-10.061697982722093,438
+821,MA1483.2,ELF2,['Ets-related'],Tryptophan cluster factors,AACCCGGAAGTA,-10.063808122355647,439
+148,MA0694.1,ZBTB7B,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GCGACCACCGAA,-10.064546310295977,440
+337,MA1116.1,RBPJ,['CSL-related factors'],Rel homology region (RHR) factors,CCTGGGAAAG,-10.066104047414536,441
+349,MA1154.1,ZNF282,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CTTTCCCACAACACGAC,-10.068951975897035,442
+454,MA1559.1,SNAI3,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,AACAGGTGCA,-10.070075579966211,443
+624,MA1107.2,KLF9,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,CAGCCACACCCACCCC,-10.072530362961324,444
+135,MA0677.1,Nr2f6,['RXR-related receptors (NR2)'],Nuclear receptors with C4 zinc fingers,GAGGTCAAAGGTCA,-10.074260262142744,445
+318,MA0905.1,HOXC10,['HOX'],Homeo domain factors,GTCGTAAAAT,-10.075511772949104,446
+783,MA0685.2,SP4,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,GGGGCGGGG,-10.079332271424038,447
+507,MA0463.2,BCL6,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,ATGCTTTCGAGGAATT,-10.083947967609745,448
+399,MA1489.1,FOXN3,['FOX'],Fork head/winged helix factors,GTAAACAA,-10.085654417357171,449
+681,MA1943.1,ETV2::HOXB13,"['Ets-related', 'HOX-related factors']",Tryptophan cluster factors,ACCGGAAACATAAAC,-10.090623190612726,450
+392,MA1475.1,CREB3L4,['CREB-related factors'],Basic leucine zipper factors (bZIP),GGTGACGTCACC,-10.091130764696407,451
+329,MA0104.4,MYCN,['bHLH-ZIP'],Basic helix-loop-helix factors (bHLH),GGCCACGTGGCC,-10.093834135367793,452
+132,MA0674.1,NKX6-1,['NK'],Homeo domain factors,GTAATTAA,-10.101941680235132,453
+79,MA0613.1,FOXG1,['FOX'],Fork head/winged helix factors,GTAAACAA,-10.102601397085069,454
+290,MA0863.1,MTF1,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,TTTGCACACGGCAC,-10.105002966695348,455
+679,MA1941.1,ETV2::FIGLA,"['Ets-related', 'Tal-related']",Tryptophan cluster factors,ACCGGAAACAGGTGGT,-10.106328079691524,456
+603,MA0473.3,ELF1,['Ets-related'],Tryptophan cluster factors,AAACAGGAAGTGGG,-10.112567626242514,457
+464,MA1572.1,TGIF2LY,['TALE-type homeo domain factors'],Homeo domain factors,TGACAGCTGTCA,-10.117464826437834,458
+794,MA0756.2,ONECUT2,['HD-CUT'],Homeo domain factors,CGATCGATA,-10.117530437108122,459
+194,MA0751.1,ZIC4,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GACCCCCCGCTGTGC,-10.117808883460704,460
+501,MA1627.1,Wt1,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CCCCTCCCCCACAC,-10.118061460741604,461
+53,MA0501.1,MAF::NFE2,"['Maf-related', 'Jun-related']",Basic leucine zipper factors (bZIP),ATGACTCAGCAATTT,-10.118182475770528,462
+413,MA1507.1,HOXD4,['HOX'],Homeo domain factors,ATCATTAG,-10.125698508857994,463
+170,MA0722.1,VAX1,['NK'],Homeo domain factors,CTAATTAC,-10.125968415251135,464
+253,MA0464.2,BHLHE40,['Hairy-related factors'],Basic helix-loop-helix factors (bHLH),ATCACGTGAC,-10.126278638732003,465
+356,MA1130.1,FOSL2::JUN,"['Fos-related', 'Jun-related']",Basic leucine zipper factors (bZIP),GGATGAGTCATC,-10.12903174063321,466
+130,MA0672.1,NKX2-3,['NK'],Homeo domain factors,ACCACTTGAA,-10.131173353139165,467
+280,MA0855.1,RXRB,['RXR-related receptors (NR2)'],Nuclear receptors with C4 zinc fingers,GGGGTCAAAGGTCA,-10.13417072285568,468
+583,MA1657.1,ZNF652,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GAAAGAGTTAAA,-10.1347990728423,469
+741,MA0037.4,Gata3,['C4-GATA-related'],Other C4 zinc finger-type factors,TTTCTTATCTGT,-10.13518482909114,470
+836,MA1630.2,ZNF281,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GGGGGAGGGGAG,-10.135389629690748,471
+244,MA0808.1,TEAD3,['TEF-1-related factors'],TEA domain factors,ACATTCCA,-10.147815328588825,472
+371,MA1146.1,NR1H4::RXRA,"['Thyroid hormone receptor-related factors (NR1)', 'RXR-related receptors (NR2)']",Nuclear receptors with C4 zinc fingers,GAGGTCATTGACCTT,-10.158444956259153,473
+659,MA0814.2,TFAP2C,['AP-2'],Basic helix-span-helix factors (bHSH),GGGCCTGAGGCGGG,-10.16449968458953,474
+572,MA1645.1,NKX2-2,['NK'],Homeo domain factors,TAACCACTCAAGAA,-10.167498753338153,475
+190,MA0739.1,Hic1,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,ATGCCAACC,-10.168093899010556,476
+797,MA0765.3,ETV5,['Ets-related'],Tryptophan cluster factors,ACCGGAAGTG,-10.17707214603738,477
+412,MA1506.1,HOXD10,['HOX'],Homeo domain factors,GGTCGTAAAAC,-10.181616693752035,478
+839,MA0597.2,THAP1,['THAP-related factors'],C2CH THAP-type zinc finger factors,GCGCAGGGCAGG,-10.188710634008393,479
+71,MA0596.1,SREBF2,['bHLH-ZIP'],Basic helix-loop-helix factors (bHLH),ATGGGGTGAT,-10.19073680630764,480
+449,MA1554.1,RFX7,['RFX-related factors'],Fork head/winged helix factors,CGTTGCTAT,-10.191556420994702,481
+781,MA0668.2,Neurod2,['Tal-related'],Basic helix-loop-helix factors (bHLH),GGGAACAGATGGTCA,-10.193726177605647,482
+722,MA1984.1,ZNF667,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,TTAAGAGCTCAG,-10.19686389081898,483
+665,MA1684.1,Foxn1,['FOX'],Fork head/winged helix factors,GGACGC,-10.1991898903565,484
+106,MA0648.1,GSC,['Paired-related HD factors'],Homeo domain factors,GCTAATCCCC,-10.199516703739528,485
+380,MA1419.1,IRF4,['Interferon-regulatory factors'],Tryptophan cluster factors,CCGAAACCGAAACTA,-10.199746661318393,486
+492,MA1615.1,Plagl1,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CCCTGGGGCCAGG,-10.21329321486914,487
+666,MA1928.1,BNC2,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,TTGTGAGTCATA,-10.22106186115856,488
+497,MA1621.1,Rbpjl,['CSL-related factors'],Rel homology region (RHR) factors,CGAACACCTGTCCC,-10.224619293958234,489
+127,MA0670.1,NFIA,['Nuclear factor 1'],SMAD/NF-1 DNA-binding domain factors,GGTGCCAAGT,-10.226058028722358,490
+331,MA0161.2,NFIC,['Nuclear factor 1'],SMAD/NF-1 DNA-binding domain factors,TACTTGGCAGA,-10.229874183355015,491
+636,MA0502.2,NFYB,['Heteromeric CCAAT-binding'],Heteromeric CCAAT-binding factors,CTCATTGGCCAG,-10.233342980256094,492
+480,MA1593.1,ZNF317,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,TAACAGCAGACT,-10.233873687631668,493
+119,MA0660.1,MEF2B,['Regulators of differentiation'],MADS box factors,GCTATAAATAGC,-10.237654587642568,494
+534,MA0867.2,SOX4,['SOX-related factors'],High-mobility group (HMG) domain factors,GAACAAAGGG,-10.237760288078702,495
+180,MA0729.1,RARA,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,GAGGTCAAAAGGTCAATG,-10.240192482464833,496
+265,MA0839.1,CREB3L1,['CREB-related factors'],Basic leucine zipper factors (bZIP),ATGCCACGTCATCA,-10.240685586449178,497
+370,MA1145.1,FOSL2::JUND,"['Fos-related', 'Jun-related']",Basic leucine zipper factors (bZIP),TGATGACGTCATCGC,-10.242876034027113,498
+249,MA0524.2,TFAP2C,['AP-2'],Basic helix-span-helix factors (bHSH),TGCCCCAGGGCA,-10.245702281277133,499
+711,MA1973.1,ZKSCAN3,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GGGCCCAGGCTAGCCCACGC,-10.246446347212853,500
+411,MA1505.1,HOXC8,['HOX'],Homeo domain factors,GTAATTAC,-10.254434365824533,501
+390,MA1473.1,CDX4,['HOX'],Homeo domain factors,GGCAATAAAAC,-10.255510427579646,502
+777,MA0650.3,Hoxa13,['HOX'],Homeo domain factors,AGCCAATAAAAA,-10.259648550942103,503
+369,MA1144.1,FOSL2::JUND,"['Fos-related', 'Jun-related']",Basic leucine zipper factors (bZIP),GATGACTCAT,-10.260360798840523,504
+571,MA1644.1,NFYC,['Heteromeric CCAAT-binding'],Heteromeric CCAAT-binding factors,AGCCAATCAGA,-10.26639006251474,505
+574,MA1648.1,TCF12,['E2A'],Basic helix-loop-helix factors (bHLH),CGCACCTGCCG,-10.267361984604937,506
+518,MA0158.2,HOXA5,['HOX'],Homeo domain factors,GTAATTAC,-10.267566534035799,507
+184,MA0732.1,EGR3,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,CTACGCCCACGCACT,-10.270180542723866,508
+160,MA0132.2,PDX1,['HOX'],Homeo domain factors,GTAATTAG,-10.270384723235772,509
+811,MA0877.3,BARHL1,['NK'],Homeo domain factors,ACCGTTTA,-10.2708806673697,510
+470,MA1579.1,ZBTB26,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,TACTCCAGAAAAGAT,-10.277904790658992,511
+282,MA0857.1,Rarb,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,AAAGGTCAAAAGGTCA,-10.285847136002545,512
+522,MA0485.2,HOXC9,['HOX'],Homeo domain factors,GTCGTAAAAT,-10.286418472510713,513
+139,MA0512.2,Rxra,['RXR-related receptors (NR2)'],Nuclear receptors with C4 zinc fingers,GGGGTCAAAGGTCA,-10.289069210698942,514
+22,MA0108.2,TBP,['TBP-related factors'],TATA-binding proteins,GTATAAAAGGCGGGG,-10.290719185996354,515
+827,MA1524.2,Msgn1,['Tal-related'],Basic helix-loop-helix factors (bHLH),GGAGACAAATGGTGGC,-10.30159790538104,516
+95,MA0638.1,CREB3,['CREB-related factors'],Basic leucine zipper factors (bZIP),GTGCCACGTCATCA,-10.30386820443963,517
+122,MA0663.1,MLX,['bHLH-ZIP'],Basic helix-loop-helix factors (bHLH),ATCACGTGAT,-10.306108018125528,518
+38,MA0159.1,RARA::RXRA,"['Thyroid hormone receptor-related factors (NR1)', 'RXR-related receptors (NR2)']",Nuclear receptors with C4 zinc fingers,AGGTCACGGAGAGGTCA,-10.310304637284236,519
+305,MA0887.1,EVX1,['HOX'],Homeo domain factors,GGTAATTAGC,-10.311625159033147,520
+837,MA1633.2,BACH1,['Jun-related'],Basic leucine zipper factors (bZIP),ATGACTCAT,-10.312828114761162,521
+239,MA0803.1,TBX15,['TBX1-related factors'],T-Box factors,AGGTGTGA,-10.31383595947766,522
+663,MA0528.2,ZNF263,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GGGGGGAGGAGG,-10.317562699435818,523
+134,MA0676.1,Nr2e1,['RXR-related receptors (NR2)'],Nuclear receptors with C4 zinc fingers,AAAAGTCAA,-10.318339775634056,524
+296,MA0873.1,HOXD12,['HOX'],Homeo domain factors,AGTCGTAAAAA,-10.319024479678367,525
+2,MA0019.1,Ddit3::Cebpa,"['CEBP-related', 'CEBP-related']",Basic leucine zipper factors (bZIP),AGATGCAATCCC,-10.321599427852174,526
+320,MA0907.1,HOXC13,['HOX'],Homeo domain factors,GCTCGTAAAAA,-10.327613668453457,527
+673,MA1935.1,ERF::FOXI1,"['Ets-related', 'FOX']",Tryptophan cluster factors,GTAAACAGGAAGTG,-10.329419134963477,528
+57,MA0518.1,Stat4,['STAT factors'],STAT domain factors,TTTCCAGGAAATGG,-10.344682781507583,529
+819,MA1472.2,Bhlha15,['Tal-related'],Basic helix-loop-helix factors (bHLH),GAACAGCTGTTC,-10.346109928400086,530
+140,MA0686.1,SPDEF,['Ets-related'],Tryptophan cluster factors,ACCCGGATGTA,-10.349508227998289,531
+600,MA0154.4,EBF1,['Early B-Cell Factor-related factors'],Rel homology region (RHR) factors,AGTCCCCAGGGGACT,-10.353611045212242,532
+832,MA1566.2,TBX3,['TBX2-related factors'],T-Box factors,AAGGTGTGAAA,-10.358297241159121,533
+792,MA0742.2,KLF12,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,GGGGCGGGG,-10.359150924290711,534
+299,MA0876.1,BSX,['NK'],Homeo domain factors,CCAATTAA,-10.364272319210157,535
+710,MA1972.1,ZFP14,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,GGAGGCACTGGAATG,-10.374630714404352,536
+10,MA0069.1,PAX6,['Paired plus homeo domain'],Paired box factors,TTCACGCATGAGTT,-10.377317980274906,537
+467,MA1576.1,THRB,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,GTGACCTTACGTGACCTTA,-10.377440501835688,538
+281,MA0856.1,RXRG,['RXR-related receptors (NR2)'],Nuclear receptors with C4 zinc fingers,GGGGTCAAAGGTCA,-10.379463865377728,539
+726,MA1988.1,Atf3,['Fos-related'],Basic leucine zipper factors (bZIP),GATGACTCATA,-10.381681112511547,540
+674,MA1936.1,ERF::FOXO1,"['Ets-related', 'FOX']",Tryptophan cluster factors,GTAAACAGGAAGTG,-10.38439019369005,541
+496,MA1620.1,Ptf1A,['Tal-related'],Basic helix-loop-helix factors (bHLH),ACACACCTGTGC,-10.386606150670861,542
+840,MA1540.2,NR5A1,['FTZF1related(NR5A)'],Nuclear receptors with C4 zinc fingers,ATGAGTTCAAGGTCAGC,-10.388813695410425,543
+736,MA1998.1,Prdm14,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,AGGGTCTCTAAC,-10.40394326216675,544
+171,MA0724.1,VENTX,['NK'],Homeo domain factors,ACCGATTAG,-10.406402612982827,545
+810,MA0869.2,Sox11,['SOX-related factors'],High-mobility group (HMG) domain factors,GAGAACAAAGGA,-10.409166290414815,546
+237,MA0801.1,MGA,['TBX6-related factors'],T-Box factors,AGGTGTGA,-10.411038948207779,547
+739,MA2002.1,Zfp335,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,GATCAGGCACT,-10.411269064980402,548
+35,MA0065.2,Pparg::Rxra,"['Thyroid hormone receptor-related factors (NR1)', 'RXR-related receptors (NR2)']",Nuclear receptors with C4 zinc fingers,GTAGGGCAAAGGTCA,-10.413119161269998,549
+385,MA1466.1,ATF6,['Jun-related'],Basic leucine zipper factors (bZIP),TGATGACGTGGCAG,-10.415661534451726,550
+274,MA0848.1,FOXO4,['FOX'],Fork head/winged helix factors,GTAAACA,-10.41639036097965,551
+143,MA0009.2,TBXT,['Brachyury-related factors'],T-Box factors,TCACACCTAGGTGTGA,-10.417325449308883,552
+352,MA1126.1,FOS::JUN,"['Fos-related', 'Jun-related']",Basic leucine zipper factors (bZIP),GATGACGTCATCATTT,-10.421386642964112,553
+238,MA0802.1,TBR1,['TBrain-related factors'],T-Box factors,AGGTGTGAAA,-10.425702614164223,554
+474,MA1584.1,ZIC5,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CGACCCCCCGCTGTGC,-10.426480668176852,555
+477,MA1588.1,ZNF136,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GAATTCTTGGTTGAC,-10.43015968294337,556
+94,MA0636.1,BHLHE41,['Hairy-related factors'],Basic helix-loop-helix factors (bHLH),GTCACGTGAC,-10.432036556584102,557
+250,MA0815.1,TFAP2C,['AP-2'],Basic helix-span-helix factors (bHSH),TGCCCTGAGGGCA,-10.434224540010366,558
+407,MA1501.1,HOXB7,['HOX'],Homeo domain factors,GGTAATTAAC,-10.435225895191426,559
+557,MA1723.1,PRDM9,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,GGTGGGCAGGGAGGAAGCAGAAGG,-10.435423038167782,560
+520,MA0902.2,HOXB2,['HOX'],Homeo domain factors,GTAATTAG,-10.436456856698369,561
+123,MA0664.1,MLXIPL,['bHLH-ZIP'],Basic helix-loop-helix factors (bHLH),ATCACGTGAT,-10.438688968901848,562
+389,MA1471.1,BARX2,['NK'],Homeo domain factors,AAAAACCATTAC,-10.444300805007057,563
+159,MA0711.1,OTX1,['Paired-related HD factors'],Homeo domain factors,TTAATCCG,-10.453819449891364,564
+246,MA0811.1,TFAP2B,['AP-2'],Basic helix-span-helix factors (bHSH),TGCCCCAGGGCA,-10.455611442009975,565
+669,MA1931.1,ELK1::HOXA1,"['Ets-related', 'HOX-related factors']",Tryptophan cluster factors,ACCGGAAGTAATTA,-10.475692461952496,566
+500,MA1625.1,Stat5b,['STAT factors'],STAT domain factors,CATTTCCCAGAAATC,-10.4760308535622,567
+790,MA0734.3,Gli2,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GAGACCACCCAGG,-10.476523094372476,568
+367,MA1142.1,FOSL1::JUND,"['Fos-related', 'Jun-related']",Basic leucine zipper factors (bZIP),GATGACTCAT,-10.484846908922732,569
+463,MA1571.1,TGIF2LX,['TALE-type homeo domain factors'],Homeo domain factors,TGACAGCTGTCA,-10.49372866382934,570
+211,MA0775.1,MEIS3,['TALE-type homeo domain factors'],Homeo domain factors,TTGACAGG,-10.496444012338658,571
+85,MA0622.1,Mlxip,['bHLH-ZIP'],Basic helix-loop-helix factors (bHLH),GCACGTGT,-10.496738552306441,572
+784,MA0690.2,TBX21,['TBrain-related factors'],T-Box factors,TTTCACACCTT,-10.496861607185844,573
+692,MA1954.1,FOXO1::ELK1,"['FOX', 'Ets-related']",Fork head/winged helix factors,ATCAACAGGAAGTG,-10.499229988245135,574
+559,MA1631.1,ASCL1,['MyoD/ASC-related factors'],Basic helix-loop-helix factors (bHLH),CAGCACCTGCCCC,-10.507291152301683,575
+426,MA1523.1,MSANTD3,['Myb/SANT domain factors'],Tryptophan cluster factors,GTACACTCAC,-10.515394028568195,576
+688,MA1950.1,FLI1::FOXI1,"['Ets-related', 'FOX']",Tryptophan cluster factors,GTAAACAGGAAGTG,-10.51846643014622,577
+633,MA0056.2,MZF1,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CAAATCCCCACTT,-10.521317582779952,578
+59,MA0520.1,Stat6,['STAT factors'],STAT domain factors,CATTTCCTGAGAAAT,-10.524036325378088,579
+128,MA0671.1,NFIX,['Nuclear factor 1'],SMAD/NF-1 DNA-binding domain factors,CGTGCCAAG,-10.524137551536603,580
+594,MA0465.2,CDX2,['HOX'],Homeo domain factors,AAGCAATAAAAA,-10.52437190975512,581
+626,MA0495.3,MAFF,['Maf-related'],Basic leucine zipper factors (bZIP),AAGTCAGCATTTTTTT,-10.525361175092781,582
+93,MA0635.1,BARHL2,['NK'],Homeo domain factors,GCTAAACGGT,-10.529549480606578,583
+589,MA1729.1,ZNF680,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GTCCAAGAAGAATGA,-10.530884007782625,584
+760,MA0493.2,KLF1,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,GGGGCGGGG,-10.532204212976781,585
+415,MA1509.1,IRF6,['Interferon-regulatory factors'],Tryptophan cluster factors,ACCGAAACT,-10.534274308830456,586
+262,MA0832.1,Tcf21,['Tal-related'],Basic helix-loop-helix factors (bHLH),GCAACAGCTGTTGT,-10.534423714163536,587
+540,MA0122.3,Nkx3-2,['NK'],Homeo domain factors,ATAACCACTTAAA,-10.54900754047862,588
+42,MA0145.2,Tfcp2l1,['CP2-related factors'],Grainyhead domain factors,CCAGTTCAAACCAG,-10.557623209718244,589
+319,MA0906.1,HOXC12,['HOX'],Homeo domain factors,GGTCGTAAAAA,-10.568594917609616,590
+177,MA0113.3,NR3C1,['Steroid hormone receptors (NR3)'],Nuclear receptors with C4 zinc fingers,GGGTACATAATGTTCCC,-10.570513460211302,591
+92,MA0007.3,Ar,['Steroid hormone receptors (NR3)'],Nuclear receptors with C4 zinc fingers,GGGAACACGGTGTACCC,-10.577132302164447,592
+365,MA1139.1,FOSL2::JUNB,"['Fos-related', 'Jun-related']",Basic leucine zipper factors (bZIP),GATGACGTCATC,-10.59373028138944,593
+744,MA0067.2,PAX2,['Paired domain only'],Paired box factors,TCAGTGAAGCGTGACGA,-10.596245485221129,594
+706,MA1968.1,TFCP2,['CP2-related factors'],Grainyhead domain factors,AAACCGGTTT,-10.60032098933549,595
+206,MA0771.1,HSF4,['HSF factors'],Heat shock factors,TTCTAGAACGTTC,-10.600981352574788,596
+188,MA0737.1,GLIS3,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GACCCCCCACGAAG,-10.605510420282652,597
+391,MA1474.1,CREB3L4,['CREB-related factors'],Basic leucine zipper factors (bZIP),TGCCACGTCACC,-10.608821952770322,598
+302,MA0882.1,DLX6,['NK'],Homeo domain factors,CCAATTAC,-10.612947400431619,599
+398,MA1485.1,FERD3L,['Tal-related'],Basic helix-loop-helix factors (bHLH),GCAACAGCTGTTAC,-10.621227431329539,600
+48,MA0483.1,Gfi1B,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,AAATCACAGCA,-10.62186425509679,601
+729,MA1991.1,Hnf1A,['POU domain factors'],Homeo domain factors,TGCCTTTGATCTTG,-10.623912399631722,602
+292,MA0866.1,SOX21,['SOX-related factors'],High-mobility group (HMG) domain factors,AACAATGGTAGTGTT,-10.62789229735432,603
+154,MA0705.1,Lhx8,['HD-LIM'],Homeo domain factors,CTAATTAG,-10.628277898715503,604
+404,MA1497.1,HOXA6,['HOX'],Homeo domain factors,GGTAATTAAC,-10.633087515334932,605
+229,MA0794.1,PROX1,['HD-PROS factors'],Homeo domain factors,CAAGACGCCTTA,-10.63500576094422,606
+761,MA0505.2,Nr5A2,['FTZF1related(NR5A)'],Nuclear receptors with C4 zinc fingers,CTGACCTTGAACT,-10.64091914376785,607
+313,MA0896.1,Hmx1,['NK'],Homeo domain factors,ACAAGCAATTAATGAAT,-10.64621939123723,608
+458,MA1564.1,SP9,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,GCCACGCCCCCC,-10.646335692113102,609
+117,MA0657.1,KLF13,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,ATGCCACGCCCCTTTTTG,-10.649306347900882,610
+619,MA0484.2,HNF4G,['RXR-related receptors (NR2)'],Nuclear receptors with C4 zinc fingers,TCCAAAGTCCAGA,-10.650732440743202,611
+33,MA0138.2,REST,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,TTCAGCACCATGGACAGCGCC,-10.651660906217367,612
+397,MA1484.1,ETS2,['Ets-related'],Tryptophan cluster factors,GACCGGAAGT,-10.651884807189914,613
+438,MA1539.1,NR2F6,['RXR-related receptors (NR2)'],Nuclear receptors with C4 zinc fingers,AAGGTCACTGACCTT,-10.65789412989762,614
+416,MA1512.1,KLF11,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,GCCACGCCCAC,-10.667137369904736,615
+185,MA0733.1,EGR4,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,TTACGCCCACGCATTT,-10.670182683201372,616
+478,MA1589.1,ZNF140,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,TAGGAGTGGAATTGCTGGGTC,-10.670529540550284,617
+806,MA0831.3,TFE3,['bHLH-ZIP'],Basic helix-loop-helix factors (bHLH),GTCACGTGAC,-10.682825654834803,618
+125,MA0667.1,MYF6,['MyoD/ASC-related factors'],Basic helix-loop-helix factors (bHLH),AACAGCTGTT,-10.688066670184625,619
+743,MA0050.3,Irf1,['Interferon-regulatory factors'],Tryptophan cluster factors,AATGAAACTGAAAGT,-10.690004580759082,620
+335,MA1114.1,PBX3,['TALE-type homeo domain factors'],Homeo domain factors,GGGTGAGTGACAGGCGG,-10.69103763680559,621
+212,MA0776.1,MYBL1,['Myb/SANT domain factors'],Tryptophan cluster factors,ACCGTTAACGGT,-10.691202377383453,622
+131,MA0673.1,NKX2-8,['NK'],Homeo domain factors,CCACTTGAA,-10.69184800131519,623
+419,MA1515.1,KLF2,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,CACCACGCCCA,-10.694200439086428,624
+192,MA0747.1,SP8,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,GCCACGCCCACT,-10.694472633061034,625
+201,MA0098.3,ETS1,['Ets-related'],Tryptophan cluster factors,ACCGGAAGTG,-10.702054341116908,626
+551,MA1717.1,ZNF784,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,GTACCTACCGC,-10.705603371303004,627
+787,MA0707.2,MNX1,['HOX'],Homeo domain factors,GTAATTAT,-10.708613456877458,628
+248,MA0813.1,TFAP2B,['AP-2'],Basic helix-span-helix factors (bHSH),TGCCCTGAGGGCA,-10.709796271700853,629
+697,MA1959.1,KLF7,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,GGGGCGGGG,-10.71288605831657,630
+104,MA0646.1,GCM1,['GCM'],GCM domain factors,CATGCGGGTAC,-10.721412376963164,631
+270,MA0844.1,XBP1,['XBP-1-related factors'],Basic leucine zipper factors (bZIP),AATGCCACGTCATC,-10.7223228857472,632
+378,MA1153.1,Smad4,['SMAD factors'],SMAD/NF-1 DNA-binding domain factors,TGTCTAGA,-10.729858945356616,633
+693,MA1955.1,FOXO1::ELK3,"['FOX', 'Ets-related']",Fork head/winged helix factors,GTAAACAGGAAGTG,-10.730608998669066,634
+587,MA1727.1,ZNF417,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,CACATTGGGCGCCAA,-10.731091526967258,635
+670,MA1932.1,ELK1::HOXB13,"['Ets-related', 'HOX-related factors']",Tryptophan cluster factors,ACCGGAAGTTGTAAAA,-10.732315732162274,636
+718,MA1980.1,ZNF418,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,AAGAGGCTAAAAGCA,-10.733485186388135,637
+498,MA1623.1,Stat2,['STAT factors'],STAT domain factors,AGAAACAGAAACT,-10.733891973781603,638
+481,MA1594.1,ZNF382,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,AGGGGACATCACTACAGATCCCAC,-10.742973974525926,639
+456,MA1561.1,SOX12,['SOX-related factors'],High-mobility group (HMG) domain factors,ACCGAACAATG,-10.745425459325755,640
+727,MA1989.1,Bcl11B,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,AAAAACCACAAGAA,-10.745781629199852,641
+795,MA0759.2,ELK3,['Ets-related'],Tryptophan cluster factors,ACCGGAAGTGG,-10.760945050422528,642
+558,MA1724.1,Rfx6,['RFX-related factors'],Fork head/winged helix factors,TTCCTAGCAACCG,-10.761432405848076,643
+509,MA0469.3,E2F3,['E2F'],Fork head/winged helix factors,ATTTTGGCGCCAAAAT,-10.764262805198994,644
+58,MA0519.1,Stat5a::Stat5b,"['STAT factors', 'STAT factors']",STAT domain factors,ATTTCCAAGAA,-10.767816727802797,645
+756,MA0467.2,Crx,['Paired-related HD factors'],Homeo domain factors,GAGGATTAGA,-10.77786172014489,646
+796,MA0764.3,ETV4,['Ets-related'],Tryptophan cluster factors,ACCGGAAGTG,-10.77937161476505,647
+118,MA0658.1,LHX6,['HD-LIM'],Homeo domain factors,ACTAATTAGC,-10.787355093803301,648
+116,MA0656.1,JDP2,['Fos-related'],Basic leucine zipper factors (bZIP),GATGACGTCATC,-10.794945665009267,649
+479,MA1592.1,ZNF274,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GGTATGAGTTCTCGCT,-10.799007421898777,650
+76,MA0604.1,Atf1,['CREB-related factors'],Basic leucine zipper factors (bZIP),ATGACGTA,-10.80170209494094,651
+359,MA1133.1,JUN::JUNB,"['Jun-related', 'Jun-related']",Basic leucine zipper factors (bZIP),TGTGACGTCATT,-10.801778525529684,652
+724,MA1986.1,ZNF692,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GGGGCCCACC,-10.806965984347709,653
+804,MA0821.2,HES5,['Hairy-related factors'],Basic helix-loop-helix factors (bHLH),GGCACGTGCC,-10.816817620704235,654
+395,MA1480.1,DPRX,['Paired-related HD factors'],Homeo domain factors,AGATAATCCC,-10.819979832312791,655
+812,MA0878.3,CDX1,['HOX'],Homeo domain factors,GGCAATAAAA,-10.82113195365703,656
+196,MA0752.1,ZNF410,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,TCCATCCCATAATACTC,-10.829587073495759,657
+306,MA0888.1,EVX2,['HOX'],Homeo domain factors,GGTAATTAGC,-10.829918095195758,658
+355,MA1129.1,FOSL1::JUN,"['Fos-related', 'Jun-related']",Basic leucine zipper factors (bZIP),ATGACGTCAT,-10.830198864952694,659
+232,MA0796.1,TGIF1,['TALE-type homeo domain factors'],Homeo domain factors,TGACAGCTGTCA,-10.831420746062157,660
+591,MA1731.1,ZNF768,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,TCGCTTACCCTCTCTGGG,-10.83469093382765,661
+730,MA1992.1,Ikzf3,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,AGACAGGAAGTGGGG,-10.839774026347529,662
+146,MA0691.1,TFAP4,['bHLH-ZIP'],Basic helix-loop-helix factors (bHLH),AACAGCTGAT,-10.842853529169625,663
+21,MA0107.1,RELA,['NF-kappaB-related factors'],Rel homology region (RHR) factors,GGGAATTTCC,-10.843019458183408,664
+677,MA1939.1,ERF::SREBF2,"['Ets-related', 'bHLH-ZIP']",Tryptophan cluster factors,GCCGGAAATCACGTGAT,-10.846754429982937,665
+418,MA1514.1,KLF17,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,CACCACGCACCCCTT,-10.84917269526194,666
+39,MA0163.1,PLAG1,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GGGGCCCAAGGGGG,-10.851052501526576,667
+537,MA0632.2,TCFL5,['PAS domain factors'],Basic helix-loop-helix factors (bHLH),TCACGCGCAC,-10.858270247090157,668
+372,MA1147.1,NR4A2::RXRA,"['NGFI-B-related receptors (NR4)', 'RXR-related receptors (NR2)']",Nuclear receptors with C4 zinc fingers,GAGGTCATTGACCCC,-10.868114027133137,669
+643,MA0782.2,PKNOX1,['TALE-type homeo domain factors'],Homeo domain factors,TTTGAGTGACAGCTA,-10.872680088892782,670
+517,MA0900.2,HOXA2,['HOX'],Homeo domain factors,GTAATTAG,-10.880630820232502,671
+590,MA1730.1,ZNF708,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CCGGCTGTGCCTCCT,-10.884076774546601,672
+437,MA1538.1,NR2F1,['RXR-related receptors (NR2)'],Nuclear receptors with C4 zinc fingers,AAGGTCATTGACCTT,-10.887219482200749,673
+384,MA1464.1,ARNT2,['PAS domain factors'],Basic helix-loop-helix factors (bHLH),GTCACGTGCC,-10.890088344841928,674
+209,MA0498.2,MEIS1,['TALE-type homeo domain factors'],Homeo domain factors,TTGACAG,-10.89856646615412,675
+364,MA1138.1,FOSL2::JUNB,"['Fos-related', 'Jun-related']",Basic leucine zipper factors (bZIP),GATGACTCAT,-10.908401989627004,676
+421,MA1517.1,KLF6,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,GGCCACGCCCA,-10.90915338008448,677
+473,MA1583.1,ZFP57,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,GCATTGCCGCAGT,-10.91132981767325,678
+353,MA1127.1,FOSB::JUN,"['Fos-related', 'Jun-related']",Basic leucine zipper factors (bZIP),GATGACGTCAT,-10.921724542823188,679
+816,MA0909.3,Hoxd13,['HOX'],Homeo domain factors,ACCAATAAAA,-10.925174741565229,680
+654,MA0830.2,TCF4,['E2A'],Basic helix-loop-helix factors (bHLH),CGGCACCTGCCCC,-10.926841625658884,681
+723,MA1985.1,ZNF669,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GGGGCGATGACCACT,-10.927345476279614,682
+705,MA1967.1,TFAP4::FLI1,"['bHLH-ZIP', 'Ets-related']",Basic helix-loop-helix factors (bHLH),ACCGGAAACAGCTGAT,-10.928751310604506,683
+658,MA0003.4,TFAP2A,['AP-2'],Basic helix-span-helix factors (bHSH),ATTGCCTCAGGCCA,-10.934796919368413,684
+440,MA1542.1,OSR1,['Other factors with up to three adjacent zinc fingers'],C2H2 zinc finger factors,TGCTACTGTT,-10.940988361522347,685
+664,MA0609.2,CREM,['CREB-related factors'],Basic leucine zipper factors (bZIP),GCAGTGACGTCACTGC,-10.946565526239418,686
+428,MA1528.1,NFIX,['Nuclear factor 1'],SMAD/NF-1 DNA-binding domain factors,GTTGGCACGGTGCCAGG,-10.957396347895436,687
+111,MA0486.2,HSF1,['HSF factors'],Heat shock factors,TTCTAGAACGTTC,-10.958016578222361,688
+631,MA0499.2,MYOD1,['MyoD/ASC-related factors'],Basic helix-loop-helix factors (bHLH),CAGCACCTGTCCC,-10.960455100396688,689
+483,MA1597.1,ZNF528,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CCCAGGGAAGCCATTTC,-10.963438669175018,690
+83,MA0619.1,LIN54,[],CRC domain,ATTTGAATT,-10.964182144667474,691
+81,MA0615.1,Gmeb1,['GMEB'],SAND domain factors,GAGTGTACGTAAGATGG,-10.98001484753532,692
+368,MA1143.1,FOSL1::JUND,"['Fos-related', 'Jun-related']",Basic leucine zipper factors (bZIP),ATGACGTAAC,-10.9878189180833,693
+243,MA0807.1,TBX5,['TBX2-related factors'],T-Box factors,AGGTGTGA,-10.988984424512298,694
+256,MA0822.1,HES7,['Hairy-related factors'],Basic helix-loop-helix factors (bHLH),TGGCACGTGCCA,-10.989148154413888,695
+543,MA1709.1,ZIM3,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,AGCAACAGAAACCTA,-10.997819582859439,696
+544,MA1710.1,ZNF257,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GAGAGGCAAGGG,-10.998008494465866,697
+593,MA0835.2,BATF3,['B-ATF-related factors'],Basic leucine zipper factors (bZIP),TATGACTCATA,-10.99819310739879,698
+182,MA0731.1,BCL6B,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,TGCTTTCTAGGAATTCA,-10.999555933094637,699
+817,MA1110.2,Nr1H4,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,CGAGGTCAGT,-10.9999670087926,700
+357,MA1131.1,FOSL2::JUN,"['Fos-related', 'Jun-related']",Basic leucine zipper factors (bZIP),GATGACGTCAT,-11.003188939166863,701
+162,MA0714.1,PITX3,['Paired-related HD factors'],Homeo domain factors,CTTAATCCC,-11.011582499945876,702
+276,MA0850.1,FOXP3,['FOX'],Fork head/winged helix factors,GTAAACA,-11.012900951601267,703
+828,MA1525.2,NFATC4,['NFAT-related factors'],Rel homology region (RHR) factors,AATGGAAAAT,-11.019153759580922,704
+351,MA0099.3,FOS::JUN,"['Fos-related', 'Jun-related']",Basic leucine zipper factors (bZIP),ATGAGTCATC,-11.019197559204219,705
+150,MA0696.1,ZIC1,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GACCCCCCGCTGTG,-11.020736476542039,706
+66,MA0144.2,STAT3,['STAT factors'],STAT domain factors,CTTCTGGGAAA,-11.034894376788813,707
+656,MA0090.3,TEAD1,['TEF-1-related factors'],TEA domain factors,CCACATTCCAGGC,-11.036145687731167,708
+210,MA0774.1,MEIS2,['TALE-type homeo domain factors'],Homeo domain factors,TTGACAGC,-11.036179037215652,709
+751,MA0152.2,Nfatc2,['NFAT-related factors'],Rel homology region (RHR) factors,AAGCAATGGAAACTAT,-11.037281621066281,710
+647,MA0743.2,SCRT1,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,AATTCAACAGGTGGTT,-11.038375460640095,711
+0,MA0004.1,Arnt,['PAS domain factors'],Basic helix-loop-helix factors (bHLH),CACGTG,-11.044035995226228,712
+23,MA0111.1,Spz1,[],Basic helix-loop-helix factors (bHLH),AGGGTAACAGC,-11.045786628151587,713
+414,MA1508.1,IKZF1,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,GAAACAGGAAGT,-11.045986776356273,714
+235,MA0511.2,RUNX2,['Runt-related factors'],Runt domain factors,AAACCGCAA,-11.051051229290385,715
+469,MA1578.1,VEZF1,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CCCCCCACTT,-11.053026371125434,716
+36,MA0151.1,Arid3a,['ARID-related'],ARID,ATTAAA,-11.05421580154045,717
+499,MA1624.1,Stat5a,['STAT factors'],STAT domain factors,TTTCCAAGAAAT,-11.05536147108378,718
+183,MA0472.2,EGR2,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,ACGCCCACGCA,-11.056026261281447,719
+524,MA0910.2,HOXD8,['HOX'],Homeo domain factors,GCAATTAC,-11.07770913214151,720
+327,MA0147.3,MYC,['bHLH-ZIP'],Basic helix-loop-helix factors (bHLH),GGCCACGTGCCC,-11.093687583993482,721
+215,MA0778.1,NFKB2,['NF-kappaB-related factors'],Rel homology region (RHR) factors,AGGGGATTCCCCT,-11.105051892474096,722
+653,MA0522.3,TCF3,['E2A'],Basic helix-loop-helix factors (bHLH),CGCACCTGCCC,-11.11742377913244,723
+230,MA0600.2,RFX2,['RFX-related factors'],Fork head/winged helix factors,CGTTGCCATGGCAACG,-11.12187357762438,724
+316,MA0899.1,HOXA10,['HOX'],Homeo domain factors,GGTAATAAAAA,-11.123039568229945,725
+737,MA1999.1,Prdm5,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CTGTTCTCCATCTCC,-11.131382651212387,726
+680,MA1942.1,ETV2::FOXI1,"['Ets-related', 'FOX']",Tryptophan cluster factors,CGTAAACAGGAAGTG,-11.131509095898874,727
+650,MA0143.4,SOX2,['SOX-related factors'],High-mobility group (HMG) domain factors,AAACAATGGAA,-11.139542502632722,728
+216,MA0779.1,PAX1,['Paired domain only'],Paired box factors,CGTCACGCATGACTGCA,-11.140699549853895,729
+366,MA1141.1,FOS::JUND,"['Fos-related', 'Jun-related']",Basic leucine zipper factors (bZIP),GGATGAGTCATCG,-11.141143559467467,730
+526,MA1140.2,JUNB,['Jun-related'],Basic leucine zipper factors (bZIP),GATGACGTCATC,-11.162477298124488,731
+24,MA0115.1,NR1H2::RXRA,"['Thyroid hormone receptor-related factors (NR1)', 'RXR-related receptors (NR2)']",Nuclear receptors with C4 zinc fingers,AAAGGTCAAAGGTCAAC,-11.166268947443278,732
+516,MA0616.2,HES2,['Hairy-related factors'],Basic helix-loop-helix factors (bHLH),GGCACGTGCC,-11.174847107314124,733
+825,MA1511.2,KLF10,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,GGGGCGGGG,-11.181306426935503,734
+813,MA0879.2,DLX1,['NK'],Homeo domain factors,GCAATTAC,-11.190428547461186,735
+807,MA0837.2,CEBPE,['CEBP-related'],Basic leucine zipper factors (bZIP),TATTGCGCAATA,-11.191558194707648,736
+439,MA1541.1,NR6A1,['GCNF-related receptors (NR6)'],Nuclear receptors with C4 zinc fingers,GTCAAGTTCAAGGTCAA,-11.196549032931951,737
+25,MA0116.1,Znf423,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,GGCACCCAGGGGTGC,-11.208151012174218,738
+424,MA1521.1,MAFA,['Maf-related'],Basic leucine zipper factors (bZIP),TTGCTGAGTCAGCAA,-11.211397868154753,739
+637,MA0063.2,NKX2-5,['NK'],Homeo domain factors,ACCACTCAAAA,-11.212956642920615,740
+798,MA0768.2,Lef1,['TCF-7-related factors'],High-mobility group (HMG) domain factors,TTTCCTTTGATGTT,-11.220198409376954,741
+347,MA1124.1,ZNF24,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CATTCATTCATTC,-11.221767386058174,742
+632,MA0500.2,MYOG,['MyoD/ASC-related factors'],Basic helix-loop-helix factors (bHLH),CAGCAGCTGCTG,-11.22664364810921,743
+457,MA1562.1,SOX14,['SOX-related factors'],High-mobility group (HMG) domain factors,CCGAACAATG,-11.236384662991625,744
+721,MA1983.1,ZNF582,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,TCTGTTACTTGCAGCCAAAAG,-11.236499380625276,745
+709,MA1971.1,ZBED2,['BED zinc finger factors'],C2H2 zinc finger factors,GCAACGAAACCAGG,-11.244346307489952,746
+43,MA0146.2,Zfx,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GGGGCCGAGGCCTG,-11.258839806241763,747
+410,MA1504.1,HOXC4,['HOX'],Homeo domain factors,GTCATTAA,-11.276147402531548,748
+245,MA0810.1,TFAP2A,['AP-2'],Basic helix-span-helix factors (bHSH),TGCCCCCGGGCA,-11.285686540389372,749
+453,MA1558.1,SNAI1,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GGCAGGTGCA,-11.289942983158983,750
+834,MA1573.2,Thap11,['THAP-related factors'],C2CH THAP-type zinc finger factors,ACTACAATTCCCAG,-11.30049128865651,751
+287,MA0106.3,TP53,['p53-related factors'],p53 domain factors,AACATGCCCGGGCATGTC,-11.301574849938344,752
+580,MA1654.1,ZNF16,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,AATAGGGAGCCATGGAAGGTTTT,-11.315646911447914,753
+728,MA1990.1,Gli1,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CGAGACCACCCAGG,-11.319625039394403,754
+436,MA1537.1,NR2F1,['RXR-related receptors (NR2)'],Nuclear receptors with C4 zinc fingers,GAGGTCAAAGGTCAC,-11.32632986286382,755
+308,MA0890.1,GBX2,['HOX'],Homeo domain factors,ACCAATTAGC,-11.328279235907114,756
+512,MA0766.2,GATA5,['C4-GATA-related'],Other C4 zinc finger-type factors,CAGATAAGGA,-11.330375715355684,757
+178,MA0727.1,NR3C2,['Steroid hormone receptors (NR3)'],Nuclear receptors with C4 zinc fingers,GGGAACACAATGTTCCC,-11.339959947364786,758
+147,MA0692.1,TFEB,['bHLH-ZIP'],Basic helix-loop-helix factors (bHLH),ATCACGTGAC,-11.342768437249966,759
+546,MA1712.1,ZNF454,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,AGGCTCCGGGCCCCGGGG,-11.354763553273711,760
+582,MA1656.1,ZNF449,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CCAAGCCCAACCAG,-11.355643955029969,761
+257,MA0823.1,HEY1,['Hairy-related factors'],Basic helix-loop-helix factors (bHLH),GACACGTGCC,-11.373612358955103,762
+259,MA0825.1,MNT,['bHLH-ZIP'],Basic helix-loop-helix factors (bHLH),ACCACGTGCC,-11.374881827002367,763
+343,MA1121.1,TEAD2,['TEF-1-related factors'],TEA domain factors,TCACATTCCAGCC,-11.390791923662817,764
+515,MA1099.2,HES1,['Hairy-related factors'],Basic helix-loop-helix factors (bHLH),GGCACGTGGC,-11.391041082906938,765
+1,MA0006.1,Ahr::Arnt,"['PAS domain factors', 'PAS domain factors']",Basic helix-loop-helix factors (bHLH),TGCGTG,-11.39354460428416,766
+764,MA0509.3,RFX1,['RFX-related factors'],Fork head/winged helix factors,CGTTGCCATGGCAACG,-11.398183341735413,767
+780,MA0666.2,MSX1,['NK'],Homeo domain factors,CCAATTAA,-11.407844054755243,768
+41,MA0259.1,ARNT::HIF1A,"['PAS domain factors', 'PAS domain factors']",Basic helix-loop-helix factors (bHLH),GGACGTGC,-11.410260599981855,769
+289,MA0862.1,GMEB2,['GMEB'],SAND domain factors,TTACGTAA,-11.411223553688869,770
+89,MA0630.1,SHOX,['Paired-related HD factors'],Homeo domain factors,TTAATTGG,-11.412661363881464,771
+420,MA1516.1,KLF3,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,GACCACGCCCA,-11.42231760924976,772
+699,MA1961.1,PATZ1,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,GGGGGGCGGGGG,-11.423597958607232,773
+773,MA0625.2,NFATC3,['NFAT-related factors'],Rel homology region (RHR) factors,ATGGAAAAT,-11.436500516759736,774
+330,MA1109.1,NEUROD1,['Tal-related'],Basic helix-loop-helix factors (bHLH),GGACAGATGGCAG,-11.439840758909952,775
+800,MA0798.3,RFX3,['RFX-related factors'],Fork head/winged helix factors,CGTTGCCATGGCAACG,-11.447729403050984,776
+588,MA1728.1,ZNF549,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GCTGCTGCCCAG,-11.449086458405976,777
+823,MA1491.2,GLI3,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GGACCACCCACGTCGC,-11.450495120763993,778
+218,MA0781.1,PAX9,['Paired domain only'],Paired box factors,CGTCACGCATGACTGCA,-11.450839872634964,779
+750,MA0136.3,Elf5,['Ets-related'],Tryptophan cluster factors,AGAAGGAAGTGA,-11.45409501091906,780
+247,MA0812.1,TFAP2B,['AP-2'],Basic helix-span-helix factors (bHSH),AGCCTCAGGCA,-11.45538045105199,781
+476,MA1587.1,ZNF135,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CCTCGACCTCCTGA,-11.458399654891998,782
+72,MA0599.1,KLF5,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,GCCCCGCCCC,-11.475824327526013,783
+556,MA1722.1,ZSCAN31,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GCATAACTGCCCTGCGTCC,-11.477418255678561,784
+231,MA0795.1,SMAD3,['SMAD factors'],SMAD/NF-1 DNA-binding domain factors,CGTCTAGACA,-11.479217561682578,785
+733,MA1995.1,Npas4,['PAS domain factors'],Basic helix-loop-helix factors (bHLH),AATCGTGACTC,-11.484221314723877,786
+16,MA0077.1,SOX9,['SOX-related factors'],High-mobility group (HMG) domain factors,CCATTGTTC,-11.491435545465754,787
+472,MA1581.1,ZBTB6,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GTCCTTGAGCCCG,-11.495629862908089,788
+340,MA1119.1,SIX2,['HD-SINE'],Homeo domain factors,AACTGAAACCTGATAC,-11.499150817735414,789
+755,MA0466.3,CEBPB,['CEBP-related'],Basic leucine zipper factors (bZIP),TATTGCGCAATA,-11.50422370300104,790
+484,MA1599.1,ZNF682,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CGGGCCAAGCCCCTAT,-11.511048983301153,791
+65,MA0137.3,STAT1,['STAT factors'],STAT domain factors,TTTCCAGGAAA,-11.512827049323283,792
+267,MA0117.2,Mafb,['Maf-related'],Basic leucine zipper factors (bZIP),AAAATGCTGACT,-11.516181257575738,793
+621,MA0490.2,JUNB,['Jun-related'],Basic leucine zipper factors (bZIP),AAATGACTCATTT,-11.547884640628768,794
+581,MA1655.1,ZNF341,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,GGGAACAGCCAC,-11.563255009097782,795
+657,MA0809.2,TEAD4,['TEF-1-related factors'],TEA domain factors,CCACATTCCAGG,-11.580679495957682,796
+831,MA1563.2,SOX18,['SOX-related factors'],High-mobility group (HMG) domain factors,AACAATTC,-11.583398101768207,797
+754,MA0160.2,NR4A2,['NGFI-B-related receptors (NR4)'],Nuclear receptors with C4 zinc fingers,TTAAAGGTCA,-11.60271823568824,798
+179,MA0728.1,Nr2F6,['RXR-related receptors (NR2)'],Nuclear receptors with C4 zinc fingers,GAGGTCAAAAGGTCA,-11.636424293816377,799
+234,MA0510.2,RFX5,['RFX-related factors'],Fork head/winged helix factors,CGTTGCCATGGCAACG,-11.66495032186995,800
+435,MA1536.1,NR2C2,['RXR-related receptors (NR2)'],Nuclear receptors with C4 zinc fingers,GAGGTCAT,-11.666798089075126,801
+634,MA0089.2,MAFG::NFE2L1,"['Maf-related', 'Jun-related']",Basic leucine zipper factors (bZIP),AGAATGACTCAGCAAT,-11.701567893294808,802
+214,MA0105.4,NFKB1,['NF-kappaB-related factors'],Rel homology region (RHR) factors,AGGGGAATCCCCT,-11.715685485416364,803
+285,MA0860.1,Rarg,['Thyroid hormone receptor-related factors (NR1)'],Nuclear receptors with C4 zinc fingers,AAGGTCACGAAAGGTCA,-11.721598899476504,804
+455,MA1560.1,SOHLH2,['PAS domain factors'],Basic helix-loop-helix factors (bHLH),CGCACGTGCA,-11.734465670459999,805
+493,MA1616.1,Prdm15,['Factors with multiple dispersed zinc fingers'],C2H2 zinc finger factors,AGGAAAACCTGGAGC,-11.74533630282403,806
+678,MA1940.1,ETV2::DRGX,"['Ets-related', 'Paired-related HD factors']",Tryptophan cluster factors,ACCGGAAGTAATTA,-11.767552259354096,807
+18,MA0091.1,TAL1::TCF3,"['Tal-related', 'E2A']",Basic helix-loop-helix factors (bHLH),CGACCATCTGTT,-11.768691128696288,808
+328,MA0100.3,MYB,['Myb/SANT domain factors'],Tryptophan cluster factors,ACCAACTGTC,-11.774915193497245,809
+536,MA0746.2,SP3,['Three-zinc finger Kruppel-related'],C2H2 zinc finger factors,GGCCACGCCCACC,-11.777232665003941,810
+740,MA2003.1,NKX2-4,['NK'],Homeo domain factors,CCACTTGAAC,-11.784529780632255,811
+747,MA0080.6,Spi1,['Ets-related'],Tryptophan cluster factors,AAAAAGAGGAAGTGGAA,-11.811241720774818,812
+107,MA0649.1,HEY2,['Hairy-related factors'],Basic helix-loop-helix factors (bHLH),GACACGTGCC,-11.817129884154351,813
+55,MA0515.1,Sox6,['SOX-related factors'],High-mobility group (HMG) domain factors,CCATTGTTTT,-11.819401267533573,814
+346,MA0103.3,ZEB1,['HD-ZF factors'],Homeo domain factors,CCCACCTGCGC,-11.869079017465895,815
+486,MA1602.1,ZSCAN29,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,CGTCTACACGGG,-11.893275882844472,816
+166,MA0718.1,RAX,['Paired-related HD factors'],Homeo domain factors,GCCAATTAAC,-11.897394519225676,817
+682,MA1944.1,ETV5::DRGX,"['Ets-related', 'Paired-related HD factors']",Tryptophan cluster factors,ACCGGAAGTAATTA,-11.899001783016992,818
+434,MA1535.1,NR2C1,['RXR-related receptors (NR2)'],Nuclear receptors with C4 zinc fingers,CGAGGTCAC,-11.938486483510518,819
+803,MA0819.2,CLOCK,['PAS domain factors'],Basic helix-loop-helix factors (bHLH),AAACACGTGC,-11.95999362279424,820
+749,MA0095.3,Yy1,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,AACAAAATGGCG,-11.971075566802554,821
+193,MA0749.1,ZBED1,['BED zinc finger factors'],C2H2 zinc finger factors,CTATCGCGACATA,-11.990340167983913,822
+602,MA0598.3,EHF,['Ets-related'],Tryptophan cluster factors,CTCACTTCCTGTTTC,-11.993794842813344,823
+442,MA1545.1,OVOL2,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,GTACCGTTATGTG,-12.018877910556142,824
+326,MA1106.1,HIF1A,['PAS domain factors'],Basic helix-loop-helix factors (bHLH),GTACGTGCCC,-12.022760633378507,825
+311,MA0894.1,HESX1,['Paired-related HD factors'],Homeo domain factors,GCTAATTGGC,-12.028776541431556,826
+672,MA1934.1,ERF::FIGLA,"['Ets-related', 'Tal-related']",Tryptophan cluster factors,ACCGGAAACACCTGGT,-12.034305833089826,827
+564,MA1637.1,EBF3,['Early B-Cell Factor-related factors'],Rel homology region (RHR) factors,TTCCCAAGGGAAT,-12.0355511432393,828
+504,MA1100.2,ASCL1,['MyoD/ASC-related factors'],Basic helix-loop-helix factors (bHLH),GGCAGCTGCC,-12.07875142941441,829
+186,MA0735.1,GLIS1,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,AGACCCCCCACGAAGC,-12.157243594164541,830
+735,MA1997.1,Olig2,['Tal-related'],Basic helix-loop-helix factors (bHLH),AGCAGCTGCT,-12.193403891659994,831
+300,MA0880.1,Dlx3,['NK'],Homeo domain factors,CCAATTAC,-12.237121249284193,832
+702,MA1964.1,SMAD2,['SMAD factors'],SMAD/NF-1 DNA-binding domain factors,TGCCAGACAG,-12.257931965392586,833
+86,MA0626.1,Npas2,['PAS domain factors'],Basic helix-loop-helix factors (bHLH),GGCACGTGTC,-12.269412270103262,834
+28,MA0130.1,ZNF354C,['More than 3 adjacent zinc fingers'],C2H2 zinc finger factors,ATCCAC,-12.45809629421406,835
+251,MA0816.1,Ascl2,['MyoD/ASC-related factors'],Basic helix-loop-helix factors (bHLH),AGCAGCTGCT,-12.4867744655257,836
+20,MA0101.1,REL,['NF-kappaB-related factors'],Rel homology region (RHR) factors,GGGGATTTCC,-12.54385530475898,837
+409,MA1503.1,HOXB9,['HOX'],Homeo domain factors,GTCGTAAAAT,-12.557923544981625,838
+304,MA0886.1,EMX2,['NK'],Homeo domain factors,GCTAATTAGC,-12.79311772372056,839
+768,MA0526.4,USF2,['bHLH-ZIP'],Basic helix-loop-helix factors (bHLH),GGTCACGTGACC,-12.844799485120843,840
